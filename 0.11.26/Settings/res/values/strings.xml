@@ -1190,9 +1190,9 @@
     <string name="breathing_light_freq_title">Trackball flashing frequency</string>
     <string name="trackball_wake_title">Trackball wake</string>
     <string name="turnover_mute_title">Flip to Silence</string>
-    <string name="turnover_mute_summary">Flip down the screen when the phone rings to active silent mode</string>
+    <string name="turnover_mute_summary">When the phone rings, flip down the screen to activate silent mode.</string>
     <string name="handon_ringer_title">Pick up the phone ring tones fade</string>
-    <string name="handon_ringer_summary">Phone ringtone will soften when picked up from a flat surface.</string>
+    <string name="handon_ringer_summary">When picked up from a flat surface, phone ringtone will soften.</string>
     <string name="battery_settings">Battery Settings</string>
     <string name="battery_settings_title">Battery</string>
     <string name="battery_indicator_style">Battery indicator style</string>
