@@ -10,10 +10,10 @@
     <string name="menu_add_address_to_contacts">Add %s to Contacts</string>
     <string name="menu_call">Call</string>
     <string name="menu_delete_all">Delete threads</string>
-    <string name="menu_delete">Delete thread</string>
+    <string name="menu_delete">Delete thread(s)</string>
     <string name="menu_undelivered_messages">Undelivered messages</string>
     <string name="menu_view">View thread</string>
-    <string name="refreshing">Refreshing…</string>
+    <string name="refreshing">Refreshing...</string>
     <string name="has_draft">Draft</string>
     <string name="broadcast_from_to">%1$s to %2$s</string>
     <string name="anonymous_recipient">Anonymous</string>
@@ -195,7 +195,7 @@
     <string name="menu_retry_sending">Retry sending</string>
     <string name="menu_retry_sending_all">Retry sending all</string>
     <string name="menu_delete_messages">Delete messages</string>
-    <string name="retrying_dialog_body">This message %s was not sent due to a connection problem.\nRetrying to send…</string>
+    <string name="retrying_dialog_body">This message %s was not sent due to a connection problem.\nRetrying to send...</string>
     <string name="menu_lock">Lock message</string>
     <string name="menu_unlock">Unlock message</string>
     <string name="sim_copy_to_phone_memory">Copy to phone memory</string>
@@ -303,7 +303,7 @@
     <string name="msg_forward_from_format">-Transfer: %s</string>
     <string name="forward_count_format">Forwarding %d times</string>
     <string name="recipient_count_format">A total of %d people</string>
-    <string name="notification_color_title">Trackball Color</string>
+    <string name="notification_color_title">Trackball color</string>
     <string name="notification_color_summary">Trackball color</string>
     <string name="group_msg_contact_title">Send to:%s</string>
     <string name="single_msg_contact_title">%s said:</string>
@@ -312,7 +312,7 @@
     <string name="mms_decrease_font_size">Decrease MMS Text Size</string>
     <string name="mms_reading_mode_day">Day mode</string>
     <string name="mms_reading_mode_night">Night mode</string>
-    <string name="menu_patch_delete">Delete thread</string>
+    <string name="menu_patch_delete">Delete thread(s)</string>
     <string name="btn_done">Done</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_confirm">OK</string>
@@ -334,7 +334,7 @@
     <string name="popup_sms_deleted">SMS Deleted</string>
     <string name="pref_set_font_size">Set text size</string>
     <string name="pref_summery_set_font_size">Set the size of the text message display</string>
-    <string name="menu_batch_delete">Delete All</string>
+    <string name="menu_batch_delete">Delete Message(s)</string>
     <string name="batch_delete_confirm_dialog_title">Delete All</string>
     <string name="batch_delete_confrom_dialog_message">Confirm you wish to remove the selected message</string>
     <string name="btn_delete_with_number">Delete (%d)</string>
@@ -373,7 +373,7 @@
     <string name="label_single_show_smart">Smart sub</string>
     <string name="label_restore_default">Restore default settings</string>
     <string name="more_color">More colors</string>
-    <string name="statistics_format">Total %d group sessions, %d SMS</string>
+    <string name="statistics_format">Total %d Group Sessions, %d SMS</string>
     <string name="message_context_panel_forward">Forward</string>
     <string name="message_context_panel_favorite">Favorites</string>
     <string name="message_context_panel_copy">Copy</string>
