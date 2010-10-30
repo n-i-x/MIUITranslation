@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">MIUI Backup</string>
+    <string name="tab_app">Apps</string>
+    <string name="tab_sys">System</string>
+    <string name="button_backup">Backup</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="backup_empty">No backups found!</string>
+    <string name="backup_recently">(Latest)</string>
+    <string name="sdcard_unmounted">SD Card not found or unmounted!</string>
+    <string name="backup_dialog_title">Select backup contents</string>
+    <string name="backup_unselected">Nothing selected for backup, cancelling...</string>
+    <string name="backup_progress">Backing up...</string>
+    <string name="backup_progress_post">Backup post-processing...</string>
+    <string name="backup_disk_check">Checking for available space, please wait...</string>
+    <string name="backup_compress">Backup files are compressed</string>
+    <string name="backup_delete_temp">Cleaning up temporary files</string>
+    <string name="button_ok">OK</string>
+    <string name="backup_finished">Backup completed</string>
+    <string name="backup_app_package">Backup Applications </string>
+    <string name="backup_sys_data">Backup System Data </string>
+    <string name="backup_unit"> (Added)</string>
+    <string name="backup_size">Total size of backup file: </string>
+    <string name="menu_delete_shortcut_label">Delete</string>
+    <string name="delete_backup">Delete Backup</string>
+    <string name="delete_backup_confirm">\nBackup will be removed, please confirm?</string>
+    <string name="delete_backup_process">Deleting backup, please wait...</string>
+    <string name="restore_title_suffix">Backup content:</string>
+    <string name="button_restore">Restore</string>
+    <string name="button_select_all">Select All</string>
+    <string name="button_unselect_all">Deselect</string>
+    <string name="backup_file_error">There was a problem with the backup, the operation was not valid.</string>
+    <string name="restore_select_zero">No content was selected for restore</string>
+    <string name="restore_finished">Restore completed</string>
+    <string name="restore_confirm_title">Confirm you wish to restore?</string>
+    <string name="restore_progress">Restoring...</string>
+    <string name="restore_uncompress">Backup files are being extracted...</string>
+    <string name="wifi_setting_name">Wi-Fi Settings</string>
+    <string name="backup_rom">Backup current System</string>
+    <string name="backup_rom_confirm">Confirm you wish to backup System?</string>
+    <string name="backup_rom_progress">Backing up System please wait...</string>
+    <string name="restore_rom">Restore the entire System</string>
+    <string name="restore_rom_confirm">System backup will be restored, the phone requires reboot, please confirm</string>
+    <string name="restore_rom_process">Ready to restart for restore...</string>
+    <string name="restore_rom_title">Restore System, requires restart</string>
+    <string name="restore_unselected">No content was selected for System restore</string>
+</resources>

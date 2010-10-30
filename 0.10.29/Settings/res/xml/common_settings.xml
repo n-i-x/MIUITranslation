@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen android:title="@string/common_settings_tab" android:key="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory>
+        <PreferenceScreen android:title="@string/wifi_settings_title" android:key="wifi_settings" android:image="@drawable/ic_settings_wireless">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.wifi.WifiSettings" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/bluetooth_settings_title" android:key="bluetooth_settings" android:image="@drawable/ic_settings_bluetooth">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.bluetooth.BluetoothSettings" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <PreferenceScreen android:title="@string/wallpaper_settings_title" android:image="@drawable/ic_settings_wallpaper">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.WallpaperSettings" />
+        </PreferenceScreen>
+        <com.android.settings.DefaultRingtonePreference android:title="@string/ringtone_settings_title" android:key="ringtone" android:ringtoneType="ringtone" android:image="@drawable/ic_settings_ringtone" />
+        <com.android.settings.DefaultRingtonePreference android:persistent="false" android:title="@string/sms_ringtone_settings_title" android:key="sms_ringtone" android:ringtoneType="notification" android:image="@drawable/ic_settings_sms_ringtone" />
+        <PreferenceScreen android:title="@string/display_settings_title" android:image="@drawable/ic_settings_display">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.DisplaySettings" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <PreferenceScreen android:title="@string/call_settings_title" android:key="call_settings" android:image="@drawable/ic_settings_phone">
+            <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.CallFeaturesSetting" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/mms_settings_title" android:key="mms_settings" android:image="@drawable/ic_settings_sms">
+            <intent android:targetPackage="com.android.mms" android:action="android.intent.action.MAIN" android:targetClass="com.android.mms.ui.MessagingPreferenceActivity" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/data_backup_settings_title" android:image="@drawable/ic_settings_data_backup">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.DataBackupSettings" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">FM Radio</string>
+    <string name="tx_app_name">FM Transmitter</string>
+    <string name="preset_delete">Delete</string>
+    <string name="stat_notif_frequency">FM Radio %1$s MHz</string>
+    <string name="sel_band_menu">Select Regional Band</string>
+    <string name="settings_menu">Settings</string>
+    <string name="regional_band">Regional Band</string>
+    <string name="aud_output_mode">Audio Output Mode</string>
+    <string name="sel_audio_output">Select Audio Output</string>
+    <string name="record_dur">Record Duration</string>
+    <string name="sel_rec_dur">Select Record Duration</string>
+    <string name="auto_select_af">Alternate Frequency</string>
+    <string name="auto_select_af_enabled">Auto Select Enabled</string>
+    <string name="auto_select_af_disabled">Auto Select Disabled</string>
+    <string name="fac_defaults">Restore default settings</string>
+    <string name="revert_to_fac">Restore default settings</string>
+    <string name="settings_back">Back</string>
+    <string name="settings_revert_confirm_title">Confirm Reset Settings</string>
+    <string name="settings_revert_confirm_msg">This will delete all settings including Presets</string>
+    <string name="settings_back_summary">Return to previous view</string>
+    <string name="settings_revert_defaults_title">Revert to Factory Defaults</string>
+    <string name="settings_revert_defaults_summary">Reset all settings</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="preset_search">Search%1$s</string>
+    <string name="fm_command_failed_title">FM operation failed.</string>
+    <string name="fm_cmd_failed_msg">Cannot start radio. Possible causes are: you did not plug in the wired headset as an antenna, did not enable Bluetooth, the phone is in a call, or FM has been closed. Please check and try again.</string>
+    <string name="durationformat">%2$d:%5$02d</string>
+    <string name="frequency_string" />
+    <string name="stat_no_fm">FM radio is not turned on</string>
+    <string name="need_headset_for_antenna">Please connect headphones.</string>
+    <string name="init_FM">Enabling bluetooth, please wait...</string>
+    <string name="need_bluetooth">Please turn on bluetooth.</string>
+</resources>
