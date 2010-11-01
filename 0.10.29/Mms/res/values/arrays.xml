@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="default_smiley_texts">
         <item>~~~^_^~~~</item>
         <item>^÷^</item>
-        <item>::>_&amp;amp;lt;::</item>
-        <item>&amp;amp;lt;_>¦¦¦</item>
+        <item>::>_&amp;lt;::</item>
+        <item>&amp;lt;_>¦¦¦</item>
         <item>(∩_∩)</item>
         <item>(^_^)/~~</item>
         <item>(^口^)</item>
@@ -74,7 +74,6 @@
         <item>medium</item>
         <item>large</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_0006">false</item>
     <string-array name="select_dialog_items">
         <item>1 second</item>
         <item>2 seconds</item>
@@ -98,4 +97,5 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0006">false</item>
 </resources>

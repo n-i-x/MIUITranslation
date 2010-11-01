@@ -331,7 +331,7 @@
     <string name="popup_sms_deleted">SMS Deleted</string>
     <string name="pref_set_font_size">Set text size</string>
     <string name="pref_summery_set_font_size">Set the size of the text message display</string>
-    <string name="menu_batch_delete">Delete All</string>
+	    <string name="menu_batch_delete">Delete All</string>
     <string name="batch_delete_confirm_dialog_title">Delete All</string>
     <string name="batch_delete_confrom_dialog_message">Confirm you wish to remove the selected message</string>
     <string name="btn_delete_with_number">Delete (%d)</string>

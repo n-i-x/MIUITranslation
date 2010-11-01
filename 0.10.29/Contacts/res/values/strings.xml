@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="config_import_vcard_type">default</string>
     <string name="config_export_vcard_type">default</string>
@@ -148,9 +148,9 @@
     <string name="description_voicemail_button">voicemail</string>
     <string name="description_dial_button">dial</string>
     <string name="description_delete_button">backspace</string>
-    <string name="description_digits_edittext">number to dial</string>
-    <string name="description_contact_photo">contact photo</string>
-    <string name="description_minus_button">minus</string>
+    <string name="description_digits_edittext">Number to dial</string>
+    <string name="description_contact_photo">Contact photo</string>
+    <string name="description_minus_button">Delete</string>
     <string name="description_plus_button">plus</string>
     <string name="no_sdcard_title">No SD card</string>
     <string name="no_sdcard_message">No SD card detected</string>
@@ -182,7 +182,7 @@
     <string name="confirm_export_message">Are you sure you want to export your contact list to \"%s\"?</string>
     <string name="exporting_contact_failed_title">Failed to export contact data</string>
     <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"%s\"</string>
-    <string name="fail_reason_no_exportable_contact">There is no exportable contact</string>
+    <string name="fail_reason_no_exportable_contact">There are no exportable contacts</string>
     <string name="fail_reason_too_many_vcard">Too many vCard files on the SD card</string>
     <string name="fail_reason_too_long_filename">Required filename is too long (\"%s\")</string>
     <string name="exporting_contact_list_title">Exporting contact data</string>
@@ -190,8 +190,8 @@
     <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: \"%s\"</string>
     <string name="fail_reason_error_occurred_during_export">Error occured during export: \"%s\"</string>
     <string name="composer_failed_to_get_database_infomation">Failed to get database information</string>
-    <string name="composer_has_no_exportable_contact">There is no exportable contact. If you have actualy have contacts on your phone, all the contacts may be prohibited from being exported to outside the phone by some data provider.</string>
-    <string name="composer_not_initialized">The vCard composer is not correctly initialized</string>
+    <string name="composer_has_no_exportable_contact">There are no exportable contacts. The data provider may prohibit contacts from being exported.</string>
+    <string name="composer_not_initialized">The vCard composer is not correctly initialized!</string>
     <string name="fail_reason_could_not_open_file">Could not open \"%1$s\": %2$s</string>
     <string name="exporting_contact_list_progress">%1$s of %2$s contacts</string>
     <string name="search_settings_description">Names of your contacts</string>
@@ -401,10 +401,10 @@
     <string name="no_sms_availabe_contact_in_group">No SMS contact is available in this group</string>
     <string name="showDialpadTip">Show Dialpad</string>
     <string name="set_ringtone_for_group_members_success">Group ringtone successfully set</string>
-    <string name="noContactHelpText">There is no contact, you can:</string>
-    <string name="noFavoriteHelpText">There is no favorite, you can:</string>
-    <string name="noGroupMemberHelpText">There is no group member, you can:</string>
-    <string name="noContactHelpTextAccounts">Configure Account Syncronisation</string>
+    <string name="noContactHelpText">No contacts, you can:</string>
+    <string name="noFavoriteHelpText">No favorites, you can:</string>
+    <string name="noGroupMemberHelpText">No group members, you can:</string>
+    <string name="noContactHelpTextAccounts">Configure Accounts</string>
     <string name="noContactHelpTextImportSim">Import from SIM</string>
     <string name="noContactHelpTextImportSD">Import from SD Card</string>
     <string name="noContactHelpTextAddContact">Create new contact</string>

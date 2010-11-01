@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Gallery</string>
     <string name="gadget_title">Picture frame</string>
@@ -61,7 +61,7 @@
     <string name="around">Around</string>
     <string name="date_unknown">Date unknown</string>
     <string name="video_err">Unable to play video</string>
-    <string name="lockscreen_wallpaper">Setting up the lock screen wallpaper, please wait…</string>
+    <string name="lockscreen_wallpaper">Setting up the Lockscreen wallpaper, please wait...</string>
     <string name="wallpaper_set">Wallpaper Gallery</string>
     <string name="lockscreen_set">Lockscreen Gallery</string>
     <string name="miui_screenshot">MIUI Screenshots</string>

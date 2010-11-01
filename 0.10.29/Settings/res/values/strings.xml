@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="yes">Yes</string>
     <string name="no">No</string>
@@ -1130,7 +1130,7 @@
     <string name="system_settings_tab">System</string>
     <string name="program_settings_tab">Programs</string>
     <string name="personal_info_category">Personal Information</string>
-    <string name="personalization_category">Personalization</string>
+    <string name="personalization_category">Personalisation Category</string>
     <string name="vcard_settings_title">Personal vcard</string>
     <string name="security_privacy_settings_title">Security and Privacy</string>
     <string name="sync_settings_title">Accounts and Sync</string>
@@ -1190,7 +1190,7 @@
     <string name="battery_auto_saving_rule_auto_sync_summary">Disable syncing of contacts, mail, etc</string>
     <string name="battery_auto_saving_rule_apn">Disable mobile data</string>
     <string name="battery_auto_saving_rule_apn_summary">Disable mobile networks such as GPRS and 3G.</string>
-    <string name="battery_auto_saving_rule_wifi">Disable WiFi</string>
+    <string name="battery_auto_saving_rule_wifi">Disable Wi-Fi</string>
     <string name="battery_auto_saving_rule_wifi_summary">Can drastically reduce power draw.</string>
     <string name="battery_auto_saving_rule_bluetooth">Disable bluetooth</string>
     <string name="battery_auto_saving_rule_bluetooth_summary">Can drastically reduce power draw.</string>

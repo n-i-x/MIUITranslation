@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="cancel">Cancel</string>
     <string name="copy">Copy</string>
@@ -890,7 +890,7 @@
     <string name="status_bar_battery_low_notification">Low Battery</string>
     <string name="status_bar_battery_low_notification_button">Battery</string>
     <string name="status_bar_button_wifi">Wi-Fi</string>
-    <string name="status_bar_button_apn">Data</string>
+    <string name="status_bar_button_apn">DATA</string>
     <string name="status_bar_button_bluetooth">Bluetooth</string>
     <string name="status_bar_button_rotate">Rotation</string>
     <string name="status_bar_button_brightness">Backlight</string>

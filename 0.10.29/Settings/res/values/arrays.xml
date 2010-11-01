@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -18,7 +18,7 @@
     <string-array name="animations_entries">
         <item>Off</item>
         <item>Med</item>
-        <item>All</item>
+        <item>Full</item>
     </string-array>
     <string-array name="animations_summaries">
         <item>No window animations are shown</item>
