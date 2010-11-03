@@ -1130,7 +1130,7 @@
     <string name="system_settings_tab">System</string>
     <string name="program_settings_tab">Programs</string>
     <string name="personal_info_category">Personal Information</string>
-    <string name="personalization_category">Personalisation Category</string>
+    <string name="personalization_category">Personalization Category</string>
     <string name="vcard_settings_title">Personal vcard</string>
     <string name="security_privacy_settings_title">Security and Privacy</string>
     <string name="sync_settings_title">Accounts and Sync</string>
