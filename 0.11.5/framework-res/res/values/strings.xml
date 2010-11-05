@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="cancel">Cancel</string>
     <string name="copy">Copy</string>
@@ -902,8 +902,8 @@
     <string name="status_bar_button_sync">Sync</string>
     <string name="status_bar_button_cpu">CPU</string>
     <string name="status_bar_button_vibrate">Vibrate</string>
-    <string name="status_bar_button_flight_mode">F-mode</string>
-	<string name="status_bar_button_lock">Lock screen</string>
+    <string name="status_bar_button_flight_mode">Airplane</string>
+	<string name="status_bar_button_lock">Lock</string>
     <string name="status_bar_button_reboot">Reboot</string>
     <string name="status_bar_button_shutdown">Shutdown</string>
     <string name="recent_dialog_buttonAppKiller_summary">MIUI vacated %1$s memory.\nCurrent available memory：%2$s</string>
