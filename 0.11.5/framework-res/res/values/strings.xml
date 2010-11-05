@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="cancel">Cancel</string>
     <string name="copy">Copy</string>
@@ -640,7 +640,7 @@
     <string name="lockscreen_pattern_correct">Correct!</string>
     <string name="lockscreen_pattern_wrong">Sorry, try again</string>
     <string name="lockscreen_plugged_in">Charging (%d%%)</string>
-    <string name="lockscreen_charged">Charged</string>
+    <string name="lockscreen_charged">Charged.</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Connect your charger.</string>
     <string name="lockscreen_missing_sim_message_short">No SIM card.</string>
@@ -652,8 +652,8 @@
     <string name="lockscreen_sim_puk_locked_instructions">Please see the User Guide or contact Customer Care.</string>
     <string name="lockscreen_sim_locked_message">SIM card is locked.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">You have incorrectly drawn your unlock pattern %d times. \n\nPlease try again in %d seconds.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.\n\n Please try again in %d seconds.</string>
+    <string name="lockscreen_too_many_failed_attempts_dialog_message">You have inputted wrong password %d times. \n\nPlease try again in %d seconds.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">You have inputted wrong password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.\n\n Please try again in %d seconds.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
     <string name="lockscreen_forgot_pattern_button_text">Forgot pattern?</string>
     <string name="lockscreen_glogin_forgot_pattern">Account unlock</string>
@@ -677,7 +677,7 @@
     <string name="status_bar_ongoing_events_title">Ongoing</string>
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="battery_status_text_percent_format">%d%%</string>
-    <string name="battery_status_charging">Charging</string>
+    <string name="battery_status_charging">Charging…</string>
     <string name="battery_low_title">Please connect charger</string>
     <string name="battery_low_subtitle">The battery is getting low:</string>
     <string name="battery_low_percent_format">%d%% or less remaining.</string>
@@ -876,8 +876,8 @@
     <string name="throttled_notification_title">Mobile data limit exceeded</string>
     <string name="throttled_notification_message">Touch to learn more about mobile data use</string>
     <string name="openvpn_vpn_description">OpenVPN SSL VPN</string>
-	<string name="reboot_confirm">Your phone will restart.</string>
-    <string name="reboot_progress">Restarting...</string>
+    <string name="reboot_confirm">Your phone will restart.</string>
+    <string name="reboot_progress">Device is restarting...</string>
     <string name="lockscreen_dial_label">Dialler</string>
     <string name="lockscreen_mms_label">Messages</string>
     <string name="status_bar_back_to_call">Back to call</string>
@@ -889,7 +889,6 @@
     <string name="callNoAnswerTimeFormat">Ring %s times</string>
     <string name="callDetailsDurationFormat">%1$s minutes %2$s seconds</string>
     <string name="date_day">Day</string>
-    <string name="status_bar_battery_low_notification">Low Battery</string>
     <string name="status_bar_battery_low_notification_button">Battery</string>
     <string name="status_bar_button_wifi">Wi-Fi</string>
     <string name="status_bar_button_apn">Data</string>
@@ -904,6 +903,7 @@
     <string name="status_bar_button_cpu">CPU</string>
     <string name="status_bar_button_vibrate">Vibrate</string>
     <string name="status_bar_button_flight_mode">F-mode</string>
+	<string name="status_bar_button_lock">Lock screen</string>
     <string name="status_bar_button_reboot">Reboot</string>
     <string name="status_bar_button_shutdown">Shutdown</string>
     <string name="recent_dialog_buttonAppKiller_summary">MIUI vacated %1$s memory.\nCurrent available memory：%2$s</string>
