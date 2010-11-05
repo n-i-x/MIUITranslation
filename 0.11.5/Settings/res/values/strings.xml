@@ -104,7 +104,7 @@
     <string name="bluetooth_enable_text">Empty button…</string>
     <string name="bluetooth_device_info_connectButton_text">Turn on Bluetooth</string>
     <string name="bluetooth_device_info_deviceInfo_text" />
-    <string name="date_and_time">Date &amp; time settings</string>
+    <string name="date_and_time">Date &amp; Time Settings</string>
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="date_time_changeTime_text">Change time</string>
@@ -212,7 +212,7 @@
     <string name="roaming_reenable_title">Attention</string>
     <string name="networks">Operator selection</string>
     <string name="sum_carrier_select">Select a network operator</string>
-    <string name="date_and_time_settings_title">Date &amp; time</string>
+    <string name="date_and_time_settings_title">Date &amp; Time</string>
     <string name="date_and_time_settings_summary">Set date, time, time zone &amp; formats</string>
     <string name="date_time_auto">Automatic</string>
     <string name="date_time_auto_summaryOn">Use network-provided values</string>
@@ -462,7 +462,7 @@
     <string name="audio_record_proc_title">Noise cancellation</string>
     <string name="audio_record_proc_summary">Suppress background noise when speaking or recording.</string>
     <string name="dock_settings">Dock</string>
-    <string name="dock_settings_title">Dock settings</string>
+    <string name="dock_settings_title">Dock Settings</string>
     <string name="dock_audio_settings_title">Audio</string>
     <string name="dock_audio_summary_desk">Settings for the attached desktop dock</string>
     <string name="dock_audio_summary_car">Settings for the attached car dock</string>
@@ -523,7 +523,7 @@
     <string name="device_status">Status</string>
     <string name="device_status_summary">Phone number, signal, etc.</string>
     <string name="storage_settings">SD card</string>
-    <string name="storage_settings_title">SD card settings</string>
+    <string name="storage_settings_title">SD Card Settings</string>
     <string name="storage_settings_summary">Unmount SD card, view available storage</string>
     <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
@@ -614,11 +614,11 @@
     <string name="media_format_final_button_text">Erase everything</string>
     <string name="media_format_gesture_prompt">Draw your unlock pattern</string>
     <string name="media_format_gesture_explanation">You must draw your unlock pattern to confirm an SD card format.</string>
-    <string name="call_settings_title">Call settings</string>
+    <string name="call_settings_title">Call Settings</string>
     <string name="call_settings_summary">Set up voicemail, call forwarding, call waiting, caller ID</string>
     <string name="tether_settings_title_usb">Tethering</string>
     <string name="tether_settings_title_wifi">Portable hotspot</string>
-    <string name="tether_settings_title_both">Tethering &amp; portable hotspot</string>
+    <string name="tether_settings_title_both">Tethering &amp; Portable Hotspot</string>
     <string name="tether_settings_summary_usb">Share your phone\'s mobile data connection via USB</string>
     <string name="tether_settings_summary_wifi">Share your phone\'s mobile connection as a portable Wi-Fi hotspot</string>
     <string name="tether_settings_summary_both">Share your phone\'s mobile data connection via USB or as a portable Wi-Fi hotspot</string>
@@ -783,8 +783,8 @@
     <string name="service_background_processes">Avail: %2$s+%3$s in %1$d</string>
     <string name="service_foreground_processes">Other: %2$s in %1$d</string>
     <string name="service_process_name">Process: %1$s</string>
-    <string name="language_settings">Language &amp; keyboard</string>
-    <string name="language_keyboard_settings_title">Language &amp; keyboard settings</string>
+    <string name="language_settings">Language &amp; Keyboard</string>
+    <string name="language_keyboard_settings_title">Language &amp; Keyboard Settings</string>
     <string name="language_settings_summary">Set locale (language and region), text input and auto-correction options</string>
     <string name="language_category">Locale setting</string>
     <string name="text_category">Text settings</string>
@@ -994,7 +994,7 @@
     <string name="gadget_title">Power Control</string>
     <string name="gadget_toggle_wifi">Updating Wi-Fi setting</string>
     <string name="gadget_toggle_bluetooth">Updating Bluetooth setting</string>
-    <string name="vpn_settings_activity_title">VPN settings</string>
+    <string name="vpn_settings_activity_title">VPN Settings</string>
     <string name="vpn_connect_to">Connect to %s</string>
     <string name="vpn_username_colon">Username:</string>
     <string name="vpn_password_colon">Password:</string>
@@ -1151,7 +1151,7 @@
     <string name="system_hardware_category">Systems and hardware</string>
     <string name="pc_connection_category">PC / Sync Settings</string>
     <string name="carrier_settings_title">Mobile Network Settings</string>
-    <string name="network_share_settings_title">Network Tethering</string>
+    <string name="network_share_settings_title">Tethering &amp; Portable Hotspot</string>
     <string name="wifi_settings_title">Wi-Fi</string>
     <string name="proxy_settings_title">Proxy</string>
     <string name="system_update_settings_title">System Update</string>
