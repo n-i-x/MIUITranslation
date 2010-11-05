@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="contactsIconLabel">Contacts</string>
     <string name="contactsFavoritesLabel">Favorites</string>
@@ -41,7 +41,7 @@
     <string name="ussdRunning">USSD code running…</string>
     <string name="mmiCancelled">MMI code canceled</string>
     <string name="cancel">Cancel</string>
-    <string name="menu_rejectCallAndSms">Reject and reply with SMS</string>
+    <string name="menu_rejectCallAndSms">拒接并回复短信</string>
     <string name="menu_speaker">Speaker</string>
     <string name="menu_bluetooth">Bluetooth</string>
     <string name="menu_mute">Mute</string>
@@ -57,7 +57,7 @@
     <string name="menu_answerAndEnd">End current call\n&amp; answer</string>
     <string name="ok">OK</string>
     <string name="menuButtonKeyboardDialHint">Press Menu for call options \u0020• \u0020Use keyboard to dial</string>
-    <string name="menu_answer">Answer</string>
+    <string name="menu_answer">Talk</string>
     <string name="menu_ignore">Ignore</string>
     <string name="wait_prompt_str">Send the following tones?\n</string>
     <string name="pause_prompt_str">Sending Tones\n</string>
@@ -474,7 +474,7 @@
     <string name="slide_to_answer_and_hold">Drag right to answer and\nhold active call</string>
     <string name="slide_to_answer_and_end_active">Drag right to answer and\nend active call</string>
     <string name="slide_to_answer_and_end_onhold">Drag right to answer and\nend call on hold</string>
-    <string name="slide_to_answer_hint">Answer</string>
+    <string name="slide_to_answer_hint">Slide to Answer</string>
     <string name="slide_to_decline_hint">Decline</string>
     <string name="notification_ongoing_calling_format">Calling (%s)</string>
     <string name="advanced_setting">Advanced Settings</string>
