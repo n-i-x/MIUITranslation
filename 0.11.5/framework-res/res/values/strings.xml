@@ -905,7 +905,7 @@
     <string name="status_bar_button_flight_mode">Airplane</string>
 	<string name="status_bar_button_lock">Lock</string>
     <string name="status_bar_button_reboot">Reboot</string>
-    <string name="status_bar_button_shutdown">Shutdown</string>
+    <string name="status_bar_button_shutdown">Power</string>
     <string name="recent_dialog_buttonAppKiller_summary">MIUI vacated %1$s memory.\nCurrent available memory：%2$s</string>
     <string name="recent_dialog_buttonAppKiller">AppKiller</string>
     <string name="recent_dialog_buttonTaskManager">AppManager</string>
