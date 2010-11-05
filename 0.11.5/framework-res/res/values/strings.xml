@@ -574,6 +574,7 @@
     <string name="policylab_wipeData">Erase all data</string>
     <string name="policydesc_wipeData">Perform a factory reset, deleting all of your data without any confirmation.</string>
     <string name="phoneTypeCustom">Custom</string>
+
     <string name="phoneTypeHome">Home</string>
     <string name="phoneTypeMobile">Mobile</string>
     <string name="phoneTypeWork">Work</string>
@@ -878,7 +879,7 @@
     <string name="openvpn_vpn_description">OpenVPN SSL VPN</string>
     <string name="reboot_confirm">Your phone will restart.</string>
     <string name="reboot_progress">Device is restarting...</string>
-    <string name="lockscreen_dial_label">Dialler</string>
+    <string name="lockscreen_dial_label">Dialer</string>
     <string name="lockscreen_mms_label">Messages</string>
     <string name="status_bar_back_to_call">Back to call</string>
     <string name="lockscreen_bottom_hint">Slide up or down to unlock</string>
