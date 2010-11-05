@@ -876,6 +876,8 @@
     <string name="throttled_notification_title">Mobile data limit exceeded</string>
     <string name="throttled_notification_message">Touch to learn more about mobile data use</string>
     <string name="openvpn_vpn_description">OpenVPN SSL VPN</string>
+	<string name="reboot_confirm">Your phone will restart.</string>
+    <string name="reboot_progress">Restarting...</string>
     <string name="lockscreen_dial_label">Dialler</string>
     <string name="lockscreen_mms_label">Messages</string>
     <string name="status_bar_back_to_call">Back to call</string>
