@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="recommended_contact_photos">
+        <item>@drawable/photo_01</item>
+        <item>@drawable/photo_02</item>
+        <item>@drawable/photo_03</item>
+        <item>@drawable/photo_04</item>
+        <item>@drawable/photo_05</item>
+        <item>@drawable/photo_06</item>
+        <item>@drawable/photo_07</item>
+        <item>@drawable/photo_08</item>
+        <item>@drawable/photo_09</item>
+        <item>@drawable/photo_10</item>
+        <item>@drawable/photo_11</item>
+        <item>@drawable/photo_12</item>
+        <item>@drawable/photo_13</item>
+        <item>@drawable/photo_14</item>
+        <item>@drawable/photo_15</item>
+        <item>@drawable/photo_16</item>
+        <item>@drawable/photo_17</item>
+        <item>@drawable/photo_18</item>
+        <item>@drawable/photo_19</item>
+        <item>@drawable/photo_20</item>
+    </array>
+</resources>
