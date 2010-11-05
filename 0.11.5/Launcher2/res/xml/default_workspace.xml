@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <favorites
   xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher">
-    <folder launcher:screen="2" launcher:x="2" launcher:y="2" launcher:title="系统工具" />
+    <folder launcher:screen="2" launcher:x="2" launcher:y="2" launcher:title="System Tools" />
     <favorite launcher:className="com.android.voicedialer.VoiceDialerActivity" launcher:packageName="com.android.voicedialer" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.quicksearchbox.SearchActivity" launcher:packageName="com.android.quicksearchbox" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.contacts.TwelveKeyDialer" launcher:packageName="com.android.contacts" launcher:container="-101" launcher:x="0" launcher:y="0" />
