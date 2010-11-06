@@ -41,7 +41,7 @@
     <string name="ussdRunning">USSD code running…</string>
     <string name="mmiCancelled">MMI code canceled</string>
     <string name="cancel">Cancel</string>
-    <string name="menu_rejectCallAndSms">拒接并回复短信</string>
+     <string name="menu_rejectCallAndSms">Reject Call and reply by SMS</string>
     <string name="menu_speaker">Speaker</string>
     <string name="menu_bluetooth">Bluetooth</string>
     <string name="menu_mute">Mute</string>
