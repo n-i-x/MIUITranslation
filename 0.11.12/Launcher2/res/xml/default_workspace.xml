@@ -7,9 +7,7 @@
     <favorite launcher:className="com.android.contacts.TwelveKeyDialer" launcher:packageName="com.android.contacts" launcher:container="-101" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.contacts.DialtactsContactsEntryActivity" launcher:packageName="com.android.contacts" launcher:container="-101" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.calculator2.Calculator" launcher:packageName="com.android.calculator2" launcher:container="1" launcher:x="0" launcher:y="0" />
-    <favorite launcher:className="com.android.updater.MainActivity" launcher:packageName="com.android.updater" launcher:screen="2" launcher:x="3" launcher:y="2" />
-    <appwidget launcher:className="com.android.updater.Widget" launcher:packageName="com.android.updater" launcher:screen="1" launcher:x="0" launcher:y="1" launcher:spanX="4" launcher:spanY="1" />
-    <favorite launcher:className="com.sohu.inputmethod.sogou.SogouIMESettings" launcher:packageName="com.sohu.inputmethod.sogou" launcher:screen="3" launcher:x="1" launcher:y="0" />
+    <favorite launcher:className="com.miuidev.forums.activity.ForumNavigationActivity" launcher:packageName="com.miuidev.forums.activity" launcher:screen="2" launcher:x="3" launcher:y="2" />
     <favorite launcher:className="com.android.calendar.LaunchActivity" launcher:packageName="com.android.calendar" launcher:screen="2" launcher:x="2" launcher:y="3" />
     <favorite launcher:className="com.android.browser.BrowserActivity" launcher:packageName="com.android.browser" launcher:container="-101" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.music.MusicBrowserActivity" launcher:packageName="com.android.music" launcher:screen="2" launcher:x="0" launcher:y="3" />
