@@ -71,7 +71,7 @@
     <string name="applications_settings">Applications</string>
     <string name="applications_settings_header">Application settings</string>
     <string name="applications_settings_summary">Manage applications, set up quick launch shortcuts</string>
-    <string name="ask_user_usb_mode">连接时询问</string>
+    <string name="ask_user_usb_mode">Ask on connection</string>
     <string name="assisted_gps">Use assisted GPS</string>
     <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
     <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
@@ -138,7 +138,7 @@
     <string name="battery_auto_saving_rule_wallpaper_summary">Live Wallpapers are significant sources of power draw and may cause system lag.</string>
     <string name="battery_auto_saving_rule_wifi">Disable Wi-Fi</string>
     <string name="battery_auto_saving_rule_wifi_summary">Can drastically reduce power draw.</string>
-    <string name="battery_auto_saving_summary">进入低电量警戒值的时候自动省电</string>
+    <string name="battery_auto_saving_summary">Power saving options when the battery is running low</string>
     <string name="battery_desc_apps">Battery used by applications when running</string>
     <string name="battery_desc_bluetooth">Battery used by bluetooth</string>
     <string name="battery_desc_display">Battery used by the display and backlight</string>
@@ -416,8 +416,8 @@
     <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="debug_log">Debug Log</string>
     <string name="default_date_format">MM/dd/yyyy</string>
-    <string name="default_usb_mode">默认连接类型</string>
-    <string name="desktop_wallpaper">桌面壁纸</string>
+    <string name="default_usb_mode">Default connection type</string>
+    <string name="desktop_wallpaper">Desktop Wallpapers</string>
     <string name="details_subtitle">Use details</string>
     <string name="details_title">Battery use details</string>
     <string name="development_debug_category">Development and debugging</string>
@@ -1047,8 +1047,8 @@
     <string name="usage_type_phone">Phone</string>
     <string name="usage_type_power">Battery Use</string>
     <string name="usage_type_video">Video</string>
-    <string name="usb_mode_charge_only">仅充电</string>
-    <string name="usb_mode_mount_storage">充电并传输数据</string>
+    <string name="usb_mode_charge_only">Charge only</string>
+    <string name="usb_mode_mount_storage">Charge and Sync</string>
     <string name="usb_tethering_active_subtext">Tethered</string>
     <string name="usb_tethering_available_subtext">USB connected, check to tether</string>
     <string name="usb_tethering_button_text">USB tethering</string>
