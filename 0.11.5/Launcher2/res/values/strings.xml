@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
     <string name="activity_not_found">Application is not installed on your phone.</string>
     <string name="add_clock">Clock</string>
     <string name="add_folder">Folder</string>
@@ -59,5 +61,3 @@
     <string name="widget_favorite_contacts_lable">Favorite Contacts</string>
     <string name="widget_favorite_contacts_style">Switch size</string>
 </resources>
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
