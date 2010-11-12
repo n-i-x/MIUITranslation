@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="dialer_click_entries">
-        <item>Call</item>
-        <item>Send SMS/MMS</item>
-        <item>View contact</item>
-        <item>Ignore Click</item>
+        <item>拨打电话</item>
+        <item>发送短信/彩信</item>
+        <item>查看联系人</item>
+        <item>忽略单击</item>
     </string-array>
     <string-array name="dialer_click_values">
         <item>0</item>
@@ -13,9 +13,9 @@
         <item>3</item>
     </string-array>
     <string-array name="incoming_call_limit_entries">
-        <item>Unlimited</item>
-        <item>Reject unknown numbers</item>
-        <item>Receive calls from contacts only</item>
+        <item>无限制</item>
+        <item>拒接陌生人来电</item>
+        <item>仅接收收藏联系人的来电</item>
     </string-array>
     <string-array name="incoming_call_limit_values">
         <item>0</item>
