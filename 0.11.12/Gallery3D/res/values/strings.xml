@@ -61,8 +61,8 @@
     <string name="around">Around</string>
     <string name="date_unknown">Date unknown</string>
     <string name="video_err">Unable to play video</string>
-    <string name="lockscreen_wallpaper">正在设置锁屏壁纸，请稍候…</string>
-    <string name="wallpaper_set">图库自选壁纸</string>
-    <string name="lockscreen_set">图库自选锁屏壁纸</string>
-    <string name="miui_screenshot">MIUI截屏</string>
+    <string name="lockscreen_wallpaper">Setting up the Lockscreen wallpaper, please wait...</string>
+    <string name="wallpaper_set">Wallpaper Gallery</string>
+    <string name="lockscreen_set">Lockscreen Gallery</string>
+    <string name="miui_screenshot">MIUI Screenshots</string>
 </resources>
