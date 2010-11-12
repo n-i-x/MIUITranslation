@@ -15,9 +15,9 @@
         <item>dd-MM-yyyy</item>
     </string-array>
     <string-array name="animations_entries">
-        <item>No animations</item>
-        <item>Some animations</item>
-        <item>All animations</item>
+        <item>Off</item>
+        <item>Med</item>
+        <item>Full</item>
     </string-array>
     <string-array name="animations_summaries">
         <item>No window animations are shown</item>
@@ -30,16 +30,16 @@
         <item>11</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>白色 (默认)</item>
-        <item>绿色</item>
-        <item>红色</item>
-        <item>蓝色</item>
-        <item>黄色</item>
-        <item>青色</item>
-        <item>红紫色</item>
-        <item>粉红色</item>
-        <item>橙色</item>
-        <item>天蓝色</item>
+        <item>White (default)</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Pink</item>
+        <item>Orange</item>
+        <item>Sapphire</item>
     </string-array>
     <string-array name="led_color_values">
         <item>white</item>
@@ -54,14 +54,14 @@
         <item>\#add8e6</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>默认(9秒)</item>
-        <item>2秒</item>
-        <item>3秒</item>
-        <item>4秒</item>
-        <item>5秒</item>
-        <item>6秒</item>
-        <item>7秒</item>
-        <item>8秒</item>
+        <item>Default (9 sec.)</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
     </string-array>
     <string-array name="led_freq_values">
         <item>9000</item>
@@ -78,7 +78,7 @@
         <item>1m</item>
         <item>5m</item>
         <item>10m</item>
-        <item>never</item>
+        <item>Off</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>30000</item>
@@ -245,8 +245,8 @@
         <item>zh_TW</item>
     </string-array>
     <string-array name="special_locale_names">
-        <item>中文 (简体)</item>
-        <item>中文 (繁體)</item>
+        <item>Chinese (Simplified)</item>
+        <item>Chinese (Traditional)</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>None</item>
@@ -283,9 +283,9 @@
         <item>notsilent</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>图形方式</item>
-        <item>数字方式</item>
-        <item>顶部方式</item>
+        <item>Graphical</item>
+        <item>Percentage</item>
+        <item>Top-Bar</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
@@ -307,9 +307,9 @@
         <item>50</item>
     </string-array>
     <string-array name="overscroll_mode_entries">
-        <item>总是有弹性</item>
-        <item>内容满的时候有弹性</item>
-        <item>没有弹性</item>
+        <item>Always flexible</item>
+        <item>Flexible if content full</item>
+        <item>No flexibility</item>
     </string-array>
     <string-array name="overscroll_mode_values">
         <item>0</item>
@@ -317,16 +317,16 @@
         <item>2</item>
     </string-array>
     <string-array name="menu_style_entries">
-        <item>原生网格</item>
-        <item>新式列表</item>
+        <item>Original grid</item>
+        <item>New list</item>
     </string-array>
     <string-array name="menu_style_values">
         <item>0</item>
         <item>3</item>
     </string-array>
     <string-array name="home_icon_style_entries">
-        <item>方正</item>
-        <item>圆润</item>
+        <item>New</item>
+        <item>Old</item>
     </string-array>
     <string-array name="home_icon_style_values">
         <item>0</item>
