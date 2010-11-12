@@ -106,7 +106,7 @@
     <string name="forward_from_format">%s forwarded from %s</string>
     <string name="forward_prefix">Fwd:\u0020</string>
     <string name="from_label">From:\u0020</string>
-    <string name="goto_sms_bookmark">去收藏</string>
+    <string name="goto_sms_bookmark">Bookmark SMS</string>
     <string name="group_msg_contact_title">Send to:%s</string>
     <string name="has_draft">Draft</string>
     <string name="has_invalid_recipient">Invalid recipient(s): &lt;%1$s></string>
@@ -186,7 +186,7 @@
     <string name="notification_multiple">%s unread messages.</string>
     <string name="notification_multiple_title">New messages</string>
     <string name="open_keyboard_to_compose_message">Open keyboard to compose message</string>
-    <string name="phrase_tab">常用语</string>
+    <string name="phrase_tab">Common Phrases</string>
     <string name="pick_numbers_activity">Pick Numbers</string>
     <string name="play">Play</string>
     <string name="popup_activity">Quick reply window</string>

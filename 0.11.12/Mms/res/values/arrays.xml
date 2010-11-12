@@ -75,9 +75,9 @@
         <item>large</item>
     </string-array>
     <string-array name="more_attachment_texts">
-        <item>Photos/item>
+        <item>Photos</item>
         <item>Pictures</item>
-        <item>Video/item>
+        <item>Video</item>
         <item>Shoot video</item>
         <item>Audio</item>
         <item>Recording</item>

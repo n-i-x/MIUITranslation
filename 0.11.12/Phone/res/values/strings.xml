@@ -257,6 +257,7 @@
     <string name="maintenance_enable">Maintenance enabled</string>
     <string name="manage_fdn_list">FDN list</string>
     <string name="meid">MEID</string>
+    <string name="menuButtonHint">Press menu for call options</string>
     <string name="menuButtonKeyboardDialHint">Press Menu for call options \u0020• \u0020Use keyboard to dial</string>
     <string name="menu_add">Add contact</string>
     <string name="menu_addCall">Add call</string>
