@@ -186,7 +186,7 @@
     <string name="notification_multiple">%s unread messages.</string>
     <string name="notification_multiple_title">New messages</string>
     <string name="open_keyboard_to_compose_message">Open keyboard to compose message</string>
-    <string name="phrase_tab">Common Phrases</string>
+    <string name="phrase_tab">Phrases</string>
     <string name="pick_numbers_activity">Pick Numbers</string>
     <string name="play">Play</string>
     <string name="popup_activity">Quick reply window</string>

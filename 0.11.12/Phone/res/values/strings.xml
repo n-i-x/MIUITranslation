@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="absent_num">ABSENT NUMBER</string>
     <string name="add_fdn_contact">Add fixed dialing number</string>
@@ -257,7 +257,6 @@
     <string name="maintenance_enable">Maintenance enabled</string>
     <string name="manage_fdn_list">FDN list</string>
     <string name="meid">MEID</string>
-    <string name="menuButtonHint">Press menu for call options</string>
     <string name="menuButtonKeyboardDialHint">Press Menu for call options \u0020• \u0020Use keyboard to dial</string>
     <string name="menu_add">Add contact</string>
     <string name="menu_addCall">Add call</string>
@@ -512,4 +511,5 @@
     <string name="voicemail_settings_number_label">Voicemail number</string>
     <string name="wait_prompt_str">Send the following tones?\n</string>
     <string name="wild_prompt_str">Replace the wild character with</string>
+    	<string name="menuButtonHint">Press menu for call options</string>
 </resources>
