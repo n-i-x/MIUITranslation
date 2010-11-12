@@ -56,9 +56,9 @@
     <string name="confirm_dialog_locked_title">Delete locked message?</string>
     <string name="confirm_dialog_title">Delete</string>
     <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this OK?</string>
-    <string name="contact_tab">联系人</string>
+    <string name="contact_tab">Contact</string>
     <string name="contacts">Contacts</string>
-    <string name="conversations_count_format">(%d条未读)</string>
+    <string name="conversations_count_format">(%d Unread)</string>
     <string name="converstaion_list_tile">Conversations</string>
     <string name="converting_to_picture_message">Converting to multimedia message…</string>
     <string name="converting_to_text_message">Converting to text message…</string>
@@ -167,7 +167,7 @@
     <string name="mms_increase_font_size">Increase MMS Text Size</string>
     <string name="mms_reading_mode_day">Day mode</string>
     <string name="mms_reading_mode_night">Night mode</string>
-    <string name="more_tab">更多</string>
+    <string name="more_tab">More</string>
     <string name="move_down">Move down</string>
     <string name="move_up">Move up</string>
     <string name="msg_forward_from_format">-Transfer: %s</string>
@@ -294,7 +294,7 @@
     <string name="slide_number">Slide %s</string>
     <string name="slide_show_part">Part %1$s/%2$s</string>
     <string name="slideshow_activity">Slideshow</string>
-    <string name="smiley_tab">表情</string>
+    <string name="smiley_tab">Smileys</string>
     <string name="sms_bookmark">SMS Favorite</string>
     <string name="sms_bookmark_welcome">No messages have been added to Favorites</string>
     <string name="sms_full_body">Incoming message rejected due to full memory. Please delete old messages.</string>
