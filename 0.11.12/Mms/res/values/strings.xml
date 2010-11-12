@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="add_attachment">Attach</string>
     <string name="add_attachment_activity">Add attachment:</string>
@@ -106,7 +106,7 @@
     <string name="forward_from_format">%s forwarded from %s</string>
     <string name="forward_prefix">Fwd:\u0020</string>
     <string name="from_label">From:\u0020</string>
-    <string name="goto_sms_bookmark">Bookmark SMS</string>
+    <string name="goto_sms_bookmark">SMS Favorites</string>
     <string name="group_msg_contact_title">Send to:%s</string>
     <string name="has_draft">Draft</string>
     <string name="has_invalid_recipient">Invalid recipient(s): &lt;%1$s></string>
