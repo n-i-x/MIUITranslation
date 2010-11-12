@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi Data</item>
-        <item>All Applications</item>
+        <item>WIFI数据</item>
+        <item>所有程序</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>(Data)</item>
-        <item>(Applications)</item>
-        <item>(Data + Applications)</item>
+        <item>(数据)</item>
+        <item>(程序)</item>
+        <item>(程序 + 数据)</item>
     </string-array>
     <string-array name="restore_dialog_content_type">
-        <item>System Recovery</item>
-        <item>Data Recovery</item>
+        <item>恢复系统</item>
+        <item>恢复数据</item>
     </string-array>
 </resources>
