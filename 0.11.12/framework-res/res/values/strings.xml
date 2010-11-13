@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <item type="string" name="default_wallpaper_component">@null</item>
     <string name="BaMmi">Call barring</string>
@@ -851,7 +851,7 @@
     <string name="status_bar_button_cpu">CPU</string>
     <string name="status_bar_button_flight_mode">Airplane</string>
     <string name="status_bar_button_gps">GPS</string>
-    <string name="status_bar_button_lock">Lock screen</string>
+    <string name="status_bar_button_lock">Lock</string>
     <string name="status_bar_button_reboot">Reboot</string>
     <string name="status_bar_button_ringer_mute">Silent</string>
     <string name="status_bar_button_ringer_normal">Normal</string>
