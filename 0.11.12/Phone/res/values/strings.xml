@@ -331,10 +331,10 @@
     <string name="onscreenManageConferenceText">Manage</string>
     <string name="onscreenMergeCallsText">Merge calls</string>
     <string name="onscreenMuteText">Mute</string>
-    <string name="onscreenNoteForCall">Recording</string>
-    <string name="onscreenNoteForTxt">Text</string>
+    <string name="onscreenNoteForCall">Record</string>
+    <string name="onscreenNoteForTxt">Send SMS</string>
     <string name="onscreenNoteStopCall">Stop Recording</string>
-    <string name="onscreenNoteText">Send SMS</string>
+    <string name="onscreenNoteText">Call Tools</string>
     <string name="onscreenRejectText">Double-tap\nto decline</string>
     <string name="onscreenShowDialpadText">Dialpad</string>
     <string name="onscreenSpeakerText">Speaker</string>
