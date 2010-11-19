@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout android:background="@drawable/audio_player_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="\@layout/media_player_sd_error" />
+    <include layout="\@layout/media_player_header" />
+    <LinearLayout android:id="@id/media_player_buttonbar_wrap_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <include layout="\@layout/media_player_buttonbar" />
+        <include layout="\@layout/media_player_common" />
+    </LinearLayout>
+    <com.miui.player.ui.TouchInterceptor android:textSize="18.0sp" android:id="@android:id/list" android:clipChildren="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/local_picker_divider" android:layout_above="@id/media_player_buttonbar_wrap_id" android:layout_below="@id/media_player_head_id" android:fastScrollEnabled="true" />
+</RelativeLayout>

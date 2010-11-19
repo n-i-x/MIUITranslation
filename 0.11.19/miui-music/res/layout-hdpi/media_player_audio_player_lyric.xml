@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.player.ui.ExtendScrollView android:id="@id/lyric_wrap" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="16.0dip" android:textColor="@color/white_80_transparent" android:gravity="center" android:id="@id/lyric" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:fadingEdge="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:lineSpacingExtra="5.0dip" />
+    </com.miui.player.ui.ExtendScrollView>
+    <ImageView android:background="@drawable/lyric_and_playlist_mask" android:layout_width="fill_parent" android:layout_height="380.0dip" android:scaleType="fitCenter" />
+    <com.miui.player.ui.SpectrumVisualizer android:layout_gravity="bottom|center" android:id="@id/spectrum_visualizer_lyric" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="35.0dip" miui:symmetry="false" miui:sliding_dot_bar="@drawable/sliding_panel_visualization_dot_bar_asym" miui:sliding_panel="@drawable/sliding_panel_visualization_bg_asym" miui:visual_height="12"
+      xmlns:miui="http://schemas.android.com/apk/res/com.miui.player" />
+</FrameLayout>

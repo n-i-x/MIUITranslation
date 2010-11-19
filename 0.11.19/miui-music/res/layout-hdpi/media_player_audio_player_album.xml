@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/album_display" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="top" android:layout_gravity="top" android:id="@id/playing_album" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitStart" />
+    <ImageView android:background="@drawable/album_playing_mask" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" />
+    <com.miui.player.ui.SpectrumVisualizer android:layout_gravity="bottom|center" android:id="@id/spectrum_visualizer_album" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="50.0dip" miui:symmetry="true" miui:visual_height="20"
+      xmlns:miui="http://schemas.android.com/apk/res/com.miui.player" />
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen android:title="@string/media_player_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/common_settings">
+        <CheckBoxPreference android:layout="@layout/preference_layout_single" android:title="@string/pref_download_album_auto" android:key="download_album_auto" android:defaultValue="false" />
+        <CheckBoxPreference android:layout="@layout/preference_layout_single" android:title="@string/pref_download_lyric_auto" android:key="download_lyric_auto" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/others">
+        <com.miui.player.ui.FeedbackDialog android:layout="@layout/preference_layout_single" android:title="@string/submit_feedback" android:key="feedback_dialog" />>
+</PreferenceCategory>
+</PreferenceScreen>

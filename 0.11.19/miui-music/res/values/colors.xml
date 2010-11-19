@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="dragndrop_background">#e0103010</color>
+    <color name="expanding_child_background">#00000000</color>
+    <color name="white_half_transparent">#80ffffff</color>
+    <color name="white_80_transparent">#d0ffffff</color>
+    <color name="white_30_transparent">#55ffffff</color>
+    <color name="white_50_transparent">#80ffffff</color>
+    <color name="white_40_transparent">#60ffffff</color>
+    <color name="white_20_transparent">#30ffffff</color>
+    <color name="ringtone_picker">#ff333333</color>
+    <color name="appwidget_text">#ffffffff</color>
+    <color name="shadow">#ffff00ae</color>
+    <color name="pre_background">#ffd2d2d2</color>
+    <color name="pre_background_selected">#ff4782d2</color>
+</resources>

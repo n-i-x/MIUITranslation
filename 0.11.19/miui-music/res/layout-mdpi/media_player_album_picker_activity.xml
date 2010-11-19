@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout android:background="@drawable/audio_player_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="\@layout/media_player_sd_error" />
+    <include android:id="@id/media_player_head_id" layout="\@layout/media_player_header" />
+    <LinearLayout android:id="@id/media_player_buttonbar_wrap_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <include layout="\@layout/media_player_buttonbar" />
+        <include layout="\@layout/media_player_common" />
+    </LinearLayout>
+    <GridView android:textSize="18.0sp" android:id="@id/list" android:alwaysDrawnWithCache="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@android:color/transparent" android:numColumns="3" android:layout_weight="1.0" android:layout_above="@id/media_player_buttonbar_wrap_id" android:layout_below="@id/media_player_head_id" />
+</RelativeLayout>

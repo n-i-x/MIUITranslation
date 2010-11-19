@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <attr name="symmetry" format="boolean" />
+    <attr name="sliding_dot_bar" format="reference" />
+    <attr name="sliding_panel" format="reference" />
+    <attr name="alpha_width" format="integer" />
+    <attr name="visual_width" format="integer" />
+    <attr name="visual_height" format="integer" />
+    <attr name="height_per_cell" format="integer" />
+    <attr name="update_enable" format="boolean" />
+</resources>

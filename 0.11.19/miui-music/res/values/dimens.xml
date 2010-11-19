@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="normal_height">64.0dip</dimen>
+    <dimen name="expanded_height">128.0dip</dimen>
+    <dimen name="media_player_header_height">110.0dip</dimen>
+    <dimen name="media_player_header_margin">-61.0dip</dimen>
+    <dimen name="media_player_padding">10.0dip</dimen>
+    <dimen name="main_title_text_size">24.0dip</dimen>
+    <dimen name="music_widget_cover_width">100.0dip</dimen>
+    <dimen name="music_widget_cover_height">100.0dip</dimen>
+    <dimen name="tab_nowplaying">40.0dip</dimen>
+</resources>
