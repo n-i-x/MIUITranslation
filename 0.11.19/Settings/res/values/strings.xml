@@ -911,7 +911,7 @@
     <string name="small_font">Small</string>
     <string name="sms">SMS</string>
     <string name="sms_ringtone_settings">Set SMS Ringtone</string>
-    <string name="sms_ringtone_settings_title">SMS Tones</string>
+    <string name="sms_ringtone_settings_title">Notification Tones</string>
     <string name="sort_order_alpha">Sort</string>
     <string name="sort_order_size">Sort by size</string>
     <string name="sound_category_calls_title">Incoming calls</string>
