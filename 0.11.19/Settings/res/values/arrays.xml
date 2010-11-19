@@ -307,35 +307,35 @@
         <item>50</item>
     </string-array>
     <string-array name="usage_screen_power_slices">
-        <item>屏幕开启耗费电量</item>
-        <item>屏幕最暗时耗电量</item>
-        <item>屏幕较暗时耗电量</item>
-        <item>屏幕中等亮度耗电量</item>
-        <item>屏幕较亮时耗电量</item>
-        <item>屏幕最亮时耗电量</item>
+        <item>Open Screen power usage</item>
+        <item>Power usage when screen is idle</item>
+        <item>Power usage with a dim lit screen</item>
+        <item>Power usage with a medium lit screen</item>
+        <item>Power usage with a bright lit screen</item>
+        <item>Power usage with a fully lit screen</item>
     </string-array>
     <string-array name="usage_radio_power_slices">
-        <item>1格信号耗电量</item>
-        <item>2格信号耗电量</item>
-        <item>3格信号耗电量</item>
-        <item>4格信号耗电量</item>
-        <item>满格信号耗电量</item>
-        <item>搜索信号耗电量</item>
+        <item>1 A Cell signal power</item>
+        <item>2 Cell signal power</item>
+        <item>3 Signal power grid</item>
+        <item>4 Cell signal power</item>
+        <item>Cell signal power over</item>
+        <item>Search for the signal power</item>
     </string-array>
     <string-array name="usage_wifi_power_slices">
-        <item>开启Wifi耗电量</item>
-        <item>Wifi传输耗电量</item>
+        <item>Open Wi-Fi power usage</item>
+        <item>Wi-Fi transfer power usage</item>
     </string-array>
     <string-array name="usage_bluetooth_power_slices">
-        <item>开启蓝牙耗电量</item>
-        <item>蓝牙命令执行耗电量</item>
+        <item>Open Bluetooth power usage</item>
+        <item>Power usage of Bluetooth</item>
     </string-array>
     <string-array name="usage_app_power_slices">
-        <item>音频耗电量</item>
-        <item>视频耗电量</item>
-        <item>CPU耗电量</item>
-        <item>数据传输耗电量</item>
-        <item>传感器耗电量</item>
+        <item>Audio power</item>
+        <item>Video power</item>
+        <item>CPU power usage</item>
+        <item>Data transfer power usage</item>
+        <item>Sensor power usage</item>
     </string-array>
     <string-array name="overscroll_mode_entries">
         <item>Always flexible</item>

@@ -421,8 +421,8 @@
     <string name="default_date_format">MM/dd/yyyy</string>
     <string name="default_usb_mode">Default connection type</string>
     <string name="desktop_wallpaper">Desktop Wallpapers</string>
-    <string name="details_subtitle">Use details</string>
-    <string name="details_title">Battery use details</string>
+    <string name="details_subtitle">Usage details</string>
+    <string name="details_title">Battery usage details</string>
     <string name="development_debug_category">Development and debugging</string>
     <string name="development_settings_summary">Set options for application development</string>
     <string name="development_settings_title">Development</string>
