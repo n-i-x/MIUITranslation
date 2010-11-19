@@ -394,7 +394,7 @@
     <string name="credentials_wrong_password">Please enter the correct password.</string>
     <string name="current_ime">Current Keyboard</string>
     <string name="current_version">Current version:%s</string>
-    <string name="customized_theme_title">自定义主题</string>
+    <string name="customized_theme_title">Custom theme</string>
     <string name="data_backup_settings">Backup Data and settings</string>
     <string name="data_backup_settings_title">Data Backup</string>
     <string name="data_service">Data Services</string>
@@ -416,8 +416,8 @@
     <string name="date_time_set_timezone">Select time zone</string>
     <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="debug_log">Debug Log</string>
-    <string name="default_application_settings">默认程序设置</string>
-    <string name="default_browser">默认浏览器</string>
+    <string name="default_application_settings">Default program settings</string>
+    <string name="default_browser">Default browser</string>
     <string name="default_date_format">MM/dd/yyyy</string>
     <string name="default_usb_mode">Default connection type</string>
     <string name="desktop_wallpaper">Desktop Wallpapers</string>
@@ -492,7 +492,7 @@
     <string name="filter_apps_third_party">Downloaded</string>
     <string name="filter_dlg_title">Select filter options</string>
     <string name="firmware_version">Android version</string>
-    <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
+    <string name="font_size_preview_text">Preview text size for font</string>
     <string name="font_size_save">OK</string>
     <string name="force_stop">Force stop</string>
     <string name="force_stop_dlg_text">This application will be restarted right way. Are you sure you want to force stop?</string>
