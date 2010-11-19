@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="onesong">1 Songs</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
@@ -16,11 +16,11 @@
     <string name="delete_song_desc">"%s" will be permanently deleted from the SD card.</string>
     <string name="delete_confirm_button_text">OK</string>
     <string name="scanning">Scanning SD card...</string>
-    <string name="nowplaying_title">Now Playing</string>
+    <string name="nowplaying_title">Playing</string>
     <string name="partyshuffle_title">Party Shuffle</string>
     <string name="artists_title">Artists</string>
-    <string name="nowplaying_mebu">Now Playing</string>
-    <string name="albums_menu">Album</string>
+    <string name="nowplaying_mebu">Playing</string>
+    <string name="albums_menu">Albums</string>
     <string name="albums_title">Album title</string>
     <string name="tracks_menu">Songs</string>
     <string name="tracks_title">All songs</string>
@@ -98,7 +98,7 @@
     <string name="albumsongseparator">,</string>
     <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="widget_initial_text">Please select a song</string>
-    <string name="albums_header">Album</string>
+    <string name="albums_header">Albums</string>
     <string name="artists_header">Artist</string>
     <string name="playlists_header">Playlists</string>
     <string name="item_count_in_header">(%d)</string>
