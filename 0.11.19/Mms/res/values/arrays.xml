@@ -35,22 +35,22 @@
         <item>(-ิo-ิ)</item>
     </string-array>
     <string-array name="default_insert_attach_names">
-        <item>图片</item>
-        <item>拍照</item>
-        <item>联系人</item>
-        <item>收藏</item>
+        <item>Pictures</item>
+        <item>Photos</item>
+        <item>Contact</item>
+        <item>Favorites</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>白色</item>
-        <item>绿色</item>
-        <item>红色</item>
-        <item>蓝色</item>
-        <item>黄色</item>
-        <item>青色</item>
-        <item>红紫色</item>
-        <item>粉红色</item>
-        <item>橙色</item>
-        <item>天蓝色</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Pink</item>
+        <item>Orange</item>
+        <item>Sapphire</item>
     </string-array>
     <string-array name="led_color_values">
         <item>white</item>
@@ -65,9 +65,9 @@
         <item>\#add8e6</item>
     </string-array>
     <string-array name="font_size_entries">
-        <item>小字体</item>
-        <item>中字体</item>
-        <item>大字体</item>
+        <item>Small font</item>
+        <item>Normal font</item>
+        <item>Large font</item>
     </string-array>
     <string-array name="font_size_values">
         <item>small</item>
@@ -75,14 +75,14 @@
         <item>large</item>
     </string-array>
     <string-array name="more_attachment_texts">
-        <item>照片</item>
-        <item>拍照</item>
-        <item>视频</item>
-        <item>拍视频</item>
-        <item>音频</item>
-        <item>录音</item>
-        <item>幻灯片</item>
-        <item>收藏</item>
+        <item>Photos</item>
+        <item>Pictures</item>
+        <item>Video</item>
+        <item>Shoot video</item>
+        <item>Audio</item>
+        <item>Recording</item>
+        <item>Slideshow</item>
+        <item>Favorites</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 second</item>
