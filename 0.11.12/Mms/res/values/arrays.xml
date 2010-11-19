@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="default_smiley_texts">
         <item>~~~^_^~~~</item>
@@ -82,7 +82,7 @@
         <item>Audio</item>
         <item>Recording</item>
         <item>Slideshow</item>
-        <item>Collection</item>
+        <item>Favorites</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 second</item>

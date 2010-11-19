@@ -31,7 +31,7 @@
     <string name="menu_search">Search</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_wallpaper">Wallpaper</string>
-    <string name="out_of_space">No more room on this Home screen.</string>
+    <string name="out_of_space">Not enough space.</string>
     <string name="permdesc_install_shortcut">Allows an application to add shortcuts without user intervention.</string>
     <string name="permdesc_read_settings">Allows an application to read the settings and shortcuts in Home.</string>
     <string name="permdesc_uninstall_shortcut">Allows an application to remove shortcuts without user intervention.</string>
