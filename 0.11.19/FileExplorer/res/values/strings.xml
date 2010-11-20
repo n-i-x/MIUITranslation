@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">FileExplorer</string>
+    <string name="file_browse">File browser</string>
+    <string name="go_parent_folder">Back</string>
+    <string name="sdcard_busy_note">sdcard busy, some features will affect the software</string>
+    <string name="confirm">OK</string>
+</resources>
