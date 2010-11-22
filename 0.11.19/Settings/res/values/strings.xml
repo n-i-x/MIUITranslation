@@ -654,8 +654,8 @@
     <string name="menu_save">Save</string>
     <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
     <string name="menu_stats_refresh">Refresh</string>
-    <string name="menu_stats_total">Usage totals</string>
-    <string name="menu_stats_unplugged">%1$s since unplugged</string>
+    <string name="menu_stats_total">Total Usage</string>
+    <string name="menu_stats_unplugged">Unplugged Usage</string>
     <string name="menu_style_title">Menu Styles</string>
     <string name="mms_settings_title">MMS Settings</string>
     <string name="model_number">Model number</string>
