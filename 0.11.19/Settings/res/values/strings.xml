@@ -394,7 +394,7 @@
     <string name="credentials_wrong_password">Please enter the correct password.</string>
     <string name="current_ime">Current Keyboard</string>
     <string name="current_version">Current version:%s</string>
-    <string name="customized_theme_title">Custom theme</string>
+    <string name="customized_theme_title">Theme Style</string>
     <string name="data_backup_settings">Backup Data and settings</string>
     <string name="data_backup_settings_title">Data Backup</string>
     <string name="data_service">Data Services</string>
@@ -654,8 +654,8 @@
     <string name="menu_save">Save</string>
     <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
     <string name="menu_stats_refresh">Refresh</string>
-    <string name="menu_stats_total">Usage totals</string>
-    <string name="menu_stats_unplugged">%1$s since unplugged</string>
+    <string name="menu_stats_total">Total Usage</string>
+    <string name="menu_stats_unplugged">Unplugged Usage</string>
     <string name="menu_style_title">Menu Styles</string>
     <string name="mms_settings_title">MMS Settings</string>
     <string name="model_number">Model number</string>
@@ -671,7 +671,7 @@
     <string name="network_settings_title">Mobile networks</string>
     <string name="network_share_settings_title">Tethering &amp; Portable Hotspot</string>
     <string name="network_state_label">Network State :</string>
-    <string name="networkid_label">Network ID :</string>
+    <string name="networkid_label">Network ID:</string>
     <string name="networks">Operator selection</string>
     <string name="next_button_label">Next</string>
     <string name="next_label">Next</string>
@@ -909,7 +909,7 @@
     <string name="sim_reenter_new">Re-type new PIN</string>
     <string name="skip_button_label">Cancel</string>
     <string name="small_font">Small</string>
-    <string name="sms">SMS</string>
+    <string name="sms">Notifications</string>
     <string name="sms_ringtone_settings">Set SMS Ringtone</string>
     <string name="sms_ringtone_settings_title">Notification Tones</string>
     <string name="sort_order_alpha">Sort</string>

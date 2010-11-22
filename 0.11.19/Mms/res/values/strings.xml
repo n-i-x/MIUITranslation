@@ -176,7 +176,7 @@
     <string name="message_size_label">Message size:\u0020</string>
     <string name="message_too_big_for_video">The message is too big to attach a video.</string>
     <string name="message_type_label">Type:\u0020</string>
-    <string name="messagelist_sender_self">Me</string>
+    <string name="messagelist_sender_self">I</string>
     <string name="miui_push">MIUI SMS</string>
     <string name="mms">MMS</string>
     <string name="mms_decrease_font_size">Decrease MMS Text Size</string>
@@ -311,7 +311,7 @@
     <string name="sim_full_title">SIM card full</string>
     <string name="sim_manage_messages_title">Text messages on SIM card</string>
     <string name="sim_view">View</string>
-    <string name="single_msg_contact_title">%s说</string>
+    <string name="single_msg_contact_title">%s said:</string>
     <string name="slide_number">Slide %s</string>
     <string name="slide_show_part">Part %1$s/%2$s</string>
     <string name="slideshow_activity">Slideshow</string>
@@ -340,13 +340,13 @@
     <string name="subject_hint">Subject</string>
     <string name="subject_label">Subject:\u0020</string>
     <string name="text_message">Text message</string>
-    <string name="theme_business_note">Business notes</string>
+    <string name="theme_business_note">Business</string>
     <string name="theme_conversation_page">List</string>
-    <string name="theme_default">Default Theme</string>
+    <string name="theme_default">Default</string>
     <string name="theme_diy_title">Select a custom desktop</string>
-    <string name="theme_fresh_cartoon">Fresh cartoon</string>
+    <string name="theme_fresh_cartoon">Fresh</string>
     <string name="theme_message_page">Talk page</string>
-    <string name="theme_picturesque">South Ink</string>
+    <string name="theme_picturesque">Inked</string>
     <string name="theme_summary">Set the theme style, custom display style</string>
     <string name="theme_title">Themes</string>
     <string name="to_address_label">To:\u0020</string>

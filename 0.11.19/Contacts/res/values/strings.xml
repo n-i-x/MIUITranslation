@@ -54,7 +54,7 @@
     <string name="callrecordview_item_op_time_short_incoming">Incoming %d seconds</string>
     <string name="callrecordview_item_op_time_short_outgoing">Outgoing %d seconds</string>
     <string name="callrecordview_menu_delete_all">Clear All Calls</string>
-    <string name="callrecordview_menu_delete_one">Clear Call History</string>
+    <string name="callrecordview_menu_delete_one">Clear from Call History</string>
     <string name="callrecordview_menu_delete_stranger">Clear Unknown Numbers</string>
     <string name="callrecordview_menu_phone_all">Show All Calls</string>
     <string name="callrecordview_menu_phone_missed">Show Missed Calls</string>
@@ -244,9 +244,9 @@
     <string name="menu_newContact">New contact</string>
     <string name="menu_remove">Remove</string>
     <string name="menu_removeStar">Remove from favorites</string>
-    <string name="menu_remove_member">Remove Contact</string>
+    <string name="menu_remove_member">Remove contact</string>
     <string name="menu_search">Search</string>
-    <string name="menu_sendEmail">Send email</string>
+    <string name="menu_sendEmail">Send E-mail</string>
     <string name="menu_sendSMS">Text contact</string>
     <string name="menu_sendTextMessage">Send text message</string>
     <string name="menu_share">Share</string>
@@ -356,7 +356,7 @@
     <string name="shortcutMessageContact">Direct message</string>
     <string name="showAllContactsJoinItem">Show all contacts</string>
     <string name="showDialpadTip">Show Dialpad</string>
-    <string name="simContacts_emptyLoading">Loading from SIM card…</string>
+    <string name="simContacts_emptyLoading">Loading from SIM card...</string>
     <string name="simContacts_title">SIM card contacts</string>
     <string name="sms_assistant">Text %s</string>
     <string name="sms_callback">Text callback</string>
