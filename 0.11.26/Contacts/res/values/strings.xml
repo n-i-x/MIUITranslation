@@ -88,7 +88,7 @@
     <string name="contactOptionsTitle">Options</string>
     <string name="contactSavedErrorToast">Error, unable to save contact changes.</string>
     <string name="contactSavedToast">Contact saved.</string>
-    <string name="contact_card_photo_edit">编辑</string>
+    <string name="contact_card_photo_edit">Edit</string>
     <string name="contact_read_only">%1$s contact information is not editable on this device.</string>
     <string name="contactsFavoritesLabel">Favorites</string>
     <string name="contactsGroupsLabel">Groups</string>
@@ -166,9 +166,9 @@
     <string name="favoriteContactDescription">Add to Favorites</string>
     <string name="favoritesFrquentSeparator">Frequently contacted</string>
     <string name="fixedFaxLabel">Fax</string>
-    <string name="fixedHomeLabel">家庭座机</string>
+    <string name="fixedHomeLabel">Landline</string>
     <string name="fixedPhoneLabel">Phone</string>
-    <string name="fixedWorkLabel">单位座机</string>
+    <string name="fixedWorkLabel">Office</string>
     <string name="frequentList">Frequent</string>
     <string name="from_account_format">from %1$s</string>
     <string name="ghostData_company">Company</string>
@@ -186,7 +186,7 @@
     <string name="group_name_life_info">Lifestyle</string>
     <string name="group_name_white_list">Whitelist</string>
     <string name="group_summary_format">%s members</string>
-    <string name="hasBeenFavoriteContactDescription">已收藏</string>
+    <string name="hasBeenFavoriteContactDescription">Favorites</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
     <string name="import_all_vcard_string">Import all vCard files</string>
@@ -346,7 +346,7 @@
     <string name="selectLabel">Select label</string>
     <string name="select_account_import_from">Choose account to import from</string>
     <string name="select_vcard_title">Select vCard file</string>
-    <string name="sendContactDescription">发送联系人</string>
+    <string name="sendContactDescription">Send Contact</string>
     <string name="send_to_voicemail_checkbox">Send calls directly to voicemail</string>
     <string name="separatorJoinAggregateAll">All contacts</string>
     <string name="separatorJoinAggregateSuggestions">Suggested contacts</string>
