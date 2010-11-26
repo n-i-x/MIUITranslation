@@ -145,8 +145,8 @@
         <item>ime</item>
     </string-array>
     <string-array name="usb_modes">
-        <item>仅充电</item>
-        <item>充电并传输数据</item>
+        <item>Charging only</item>
+        <item>Charging and data transfer</item>
     </string-array>
     <string-array name="networkAttributes">
         <item>wifi,1,1,1</item>

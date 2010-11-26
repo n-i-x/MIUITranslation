@@ -163,7 +163,7 @@
     <string name="fail_reason_vcard_not_supported_error">Failed to parse vCard though it seems in valid format, since the current implementation does not support it</string>
     <string name="fail_reason_vcard_parse_error">Failed to parse vCard for unexpected reason</string>
     <string name="fast_scroll_alphabet">\#ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="favoriteContactDescription">Add to Favorites</string>
+    <string name="favoriteContactDescription">Favorites</string>
     <string name="favoritesFrquentSeparator">Frequently contacted</string>
     <string name="fixedFaxLabel">Fax</string>
     <string name="fixedHomeLabel">Landline</string>
@@ -222,7 +222,7 @@
     <string name="meid">MEID</string>
     <string name="menu_accounts">Accounts</string>
     <string name="menu_add">Add</string>
-    <string name="menu_addStar">Add to favorites</string>
+    <string name="menu_addStar">Add to Favorites</string>
     <string name="menu_add_favorite_contact">Add contact to Favorites</string>
     <string name="menu_add_member">Add Contact</string>
     <string name="menu_call">Call contact</string>
@@ -275,7 +275,7 @@
     <string name="noContactHelpTextAccounts">Configure Account Syncronisation</string>
     <string name="noContactHelpTextAddContact">Create new contact</string>
     <string name="noContactHelpTextAddMember">Add to Group</string>
-    <string name="noContactHelpTextAddStarred">Add to Favorites</string>
+    <string name="noContactHelpTextAddStarred">Favorites</string>
     <string name="noContactHelpTextImportSD">Import from SD Card</string>
     <string name="noContactHelpTextImportSim">Import from SIM</string>
     <string name="noContacts">No contacts.</string>

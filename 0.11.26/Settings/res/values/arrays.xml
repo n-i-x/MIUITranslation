@@ -15,9 +15,9 @@
         <item>dd-MM-yyyy</item>
     </string-array>
     <string-array name="animations_entries">
-        <item>No animations</item>
-        <item>Some animations</item>
-        <item>All animations</item>
+        <item>Off</item>
+        <item>Med</item>
+        <item>Full</item>
     </string-array>
     <string-array name="animations_summaries">
         <item>No window animations are shown</item>
@@ -30,16 +30,16 @@
         <item>11</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>白色 (默认)</item>
-        <item>绿色</item>
-        <item>红色</item>
-        <item>蓝色</item>
-        <item>黄色</item>
-        <item>青色</item>
-        <item>红紫色</item>
-        <item>粉红色</item>
-        <item>橙色</item>
-        <item>天蓝色</item>
+        <item>White (default)</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Pink</item>
+        <item>Orange</item>
+        <item>Sapphire</item>
     </string-array>
     <string-array name="led_color_values">
         <item>white</item>
@@ -54,14 +54,14 @@
         <item>\#add8e6</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>默认(9秒)</item>
-        <item>2秒</item>
-        <item>3秒</item>
-        <item>4秒</item>
-        <item>5秒</item>
-        <item>6秒</item>
-        <item>7秒</item>
-        <item>8秒</item>
+        <item>Default (9 sec.)</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
     </string-array>
     <string-array name="led_freq_values">
         <item>9000</item>
@@ -78,7 +78,7 @@
         <item>1m</item>
         <item>5m</item>
         <item>10m</item>
-        <item>never</item>
+        <item>Off</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>30000</item>
@@ -150,22 +150,22 @@
         <item>Scanning…</item>
         <item>Connecting…</item>
         <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
+        <item>Obtaining IP address...</item>
         <item>Connected</item>
         <item>Suspended</item>
-        <item>Disconnecting…</item>
+        <item>Disconnecting...</item>
         <item>Disconnected</item>
         <item>Unsuccessful</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
+        <item>Connecting to %1$s...</item>
+        <item>Authenticating with %1$s...</item>
+        <item>Obtaining IP address from %1$s...</item>
         <item>Connected to %1$s</item>
         <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
+        <item>Disconnecting from %1$s...</item>
         <item>Disconnected</item>
         <item>Unsuccessful</item>
     </string-array>
@@ -245,8 +245,8 @@
         <item>zh_TW</item>
     </string-array>
     <string-array name="special_locale_names">
-        <item>中文 (简体)</item>
-        <item>中文 (繁體)</item>
+        <item>Chinese (Simplified)</item>
+        <item>Chinese (Traditional)</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>None</item>
@@ -283,9 +283,9 @@
         <item>notsilent</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>图形方式</item>
-        <item>数字方式</item>
-        <item>顶部方式</item>
+        <item>Graphical</item>
+        <item>Percentage</item>
+        <item>Top-Bar</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
@@ -307,40 +307,40 @@
         <item>50</item>
     </string-array>
     <string-array name="usage_screen_power_slices">
-        <item>屏幕开启耗费电量</item>
-        <item>屏幕最暗时耗电量</item>
-        <item>屏幕较暗时耗电量</item>
-        <item>屏幕中等亮度耗电量</item>
-        <item>屏幕较亮时耗电量</item>
-        <item>屏幕最亮时耗电量</item>
+        <item>Open Screen power usage</item>
+        <item>Power usage when screen is idle</item>
+        <item>Power usage with a dim lit screen</item>
+        <item>Power usage with a medium lit screen</item>
+        <item>Power usage with a bright lit screen</item>
+        <item>Power usage with a fully lit screen</item>
     </string-array>
     <string-array name="usage_radio_power_slices">
-        <item>1格信号耗电量</item>
-        <item>2格信号耗电量</item>
-        <item>3格信号耗电量</item>
-        <item>4格信号耗电量</item>
-        <item>满格信号耗电量</item>
-        <item>搜索信号耗电量</item>
+        <item>1 A Cell signal power</item>
+        <item>2 Cell signal power</item>
+        <item>3 Signal power grid</item>
+        <item>4 Cell signal power</item>
+        <item>Cell signal power over</item>
+        <item>Search for the signal power</item>
     </string-array>
     <string-array name="usage_wifi_power_slices">
-        <item>开启Wifi耗电量</item>
-        <item>Wifi传输耗电量</item>
+        <item>Open Wi-Fi power usage</item>
+        <item>Wi-Fi transfer power usage</item>
     </string-array>
     <string-array name="usage_bluetooth_power_slices">
-        <item>开启蓝牙耗电量</item>
-        <item>蓝牙命令执行耗电量</item>
+        <item>Open Bluetooth power usage</item>
+        <item>Power usage of Bluetooth</item>
     </string-array>
     <string-array name="usage_app_power_slices">
-        <item>音频耗电量</item>
-        <item>视频耗电量</item>
-        <item>CPU耗电量</item>
-        <item>数据传输耗电量</item>
-        <item>传感器耗电量</item>
+        <item>Audio power</item>
+        <item>Video power</item>
+        <item>CPU power usage</item>
+        <item>Data transfer power usage</item>
+        <item>Sensor power usage</item>
     </string-array>
     <string-array name="overscroll_mode_entries">
-        <item>总是有弹性</item>
-        <item>内容满的时候有弹性</item>
-        <item>没有弹性</item>
+        <item>Always flexible</item>
+        <item>Flexible if content full</item>
+        <item>No flexibility</item>
     </string-array>
     <string-array name="overscroll_mode_values">
         <item>0</item>
@@ -348,8 +348,8 @@
         <item>2</item>
     </string-array>
     <string-array name="menu_style_entries">
-        <item>原生网格</item>
-        <item>新式列表</item>
+        <item>Original grid</item>
+        <item>New list</item>
     </string-array>
     <string-array name="menu_style_values">
         <item>0</item>
