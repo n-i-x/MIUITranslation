@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">主题风格</string>
+    <string name="theme_sdcard_missed_dialog_title">存储卡不可访问</string>
+    <string name="theme_sdcard_missed_dialog_message">请确保存储卡已插入，且手机不在数据传输模式。</string>
+    <string name="theme_changing_dialog_title">正在准备新主题</string>
+    <string name="theme_changed_dialog_title">新主题配置成功！</string>
+    <string name="theme_changed_reboot_dialog_message">目前可在桌面预览部分效果，重启手机后全局更新。</string>
+    <string name="theme_reboot_button_done">立即重启</string>
+    <string name="theme_reboot_button_cancel">稍后</string>
+    <string name="theme_delete_confirm_dialog_title">删除主题包</string>
+    <string name="theme_delete_confirm_dialog_message">该操作不影响当前的主题效果，只删除主题文件。</string>
+    <string name="theme_activity_lable">主题风格</string>
+    <string name="theme_activity_button_done">应用</string>
+    <string name="theme_activity_button_cancel">取消</string>
+    <string name="theme_category_selected">当前主题元素</string>
+    <string name="theme_category_available">可选主题元素</string>
+    <string name="theme_add_more">更多主题元素</string>
+    <string name="theme_default_title">MIUI默认主题</string>
+    <string name="theme_default_author">MIUI</string>
+    <string name="theme_unknow_author">未知</string>
+    <string name="theme_description_author">作者：</string>
+    <string name="theme_description_size">大小：</string>
+    <string name="theme_description_version">版本：</string>
+    <string name="theme_description_reboot">(需重启)</string>
+</resources>
