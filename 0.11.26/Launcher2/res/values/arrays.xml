@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="widget_sizes">
+        <item>home_edit_box_area_1_1</item>
+        <item>home_edit_box_area_1_2</item>
+        <item>home_edit_box_area_1_3</item>
+        <item>home_edit_box_area_1_4</item>
+        <item>home_edit_box_area_2_1</item>
+        <item>home_edit_box_area_2_2</item>
+        <item>home_edit_box_area_2_3</item>
+        <item>home_edit_box_area_2_4</item>
+        <item>home_edit_box_area_3_1</item>
+        <item>home_edit_box_area_3_2</item>
+        <item>home_edit_box_area_3_3</item>
+        <item>home_edit_box_area_3_4</item>
+        <item>home_edit_box_area_4_1</item>
+        <item>home_edit_box_area_4_2</item>
+        <item>home_edit_box_area_4_3</item>
+        <item>home_edit_box_area_4_4</item>
+    </string-array>
+    <string-array name="lockscreen_wallpapers">
+        <item>lockscreen_001</item>
+        <item>lockscreen_002</item>
+        <item>lockscreen_003</item>
+        <item>lockscreen_004</item>
+        <item>lockscreen_005</item>
+        <item>lockscreen_006</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_001</item>
+        <item>wallpaper_002</item>
+        <item>wallpaper_003</item>
+        <item>wallpaper_004</item>
+        <item>wallpaper_005</item>
+        <item>wallpaper_006</item>
+        <item>wallpaper_007</item>
+        <item>wallpaper_008</item>
+        <item>wallpaper_009</item>
+        <item>wallpaper_010</item>
+        <item>wallpaper_011</item>
+        <item>wallpaper_012</item>
+    </string-array>
+</resources>

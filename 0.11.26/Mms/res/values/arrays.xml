@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>~^_^~</item>
+        <item>^÷^</item>
+        <item>::>_&amp;lt;::</item>
+        <item>&amp;lt;_>¦¦¦</item>
+        <item>∩_∩</item>
+        <item>^_^/~~</item>
+        <item>^口^</item>
+        <item>〒_〒</item>
+        <item>∠※</item>
+        <item>╯^╰</item>
+        <item>一-一</item>
+        <item>b_d</item>
+        <item>*^‧^*</item>
+        <item>○^~^○</item>
+        <item>$_$</item>
+        <item>^ˍ^</item>
+        <item>~@^_^@~</item>
+        <item>ˋ^ˊ</item>
+        <item>ˋ_ˊ¦¦</item>
+        <item>°ο°/~</item>
+        <item>\\^o^//</item>
+        <item>⊙o⊙</item>
+        <item>‧_‧?</item>
+        <item>~o~/~</item>
+        <item>¯^¯</item>
+        <item>→_→</item>
+        <item>\@ο@</item>
+        <item>^人^</item>
+        <item>人人</item>
+        <item>Y^_^Y</item>
+        <item>ōk</item>
+        <item>-ิo-ิ</item>
+    </string-array>
+    <string-array name="default_insert_attach_names">
+        <item>图片</item>
+        <item>拍照</item>
+        <item>联系人</item>
+        <item>收藏</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>白色</item>
+        <item>绿色</item>
+        <item>红色</item>
+        <item>蓝色</item>
+        <item>黄色</item>
+        <item>青色</item>
+        <item>红紫色</item>
+        <item>粉红色</item>
+        <item>橙色</item>
+        <item>天蓝色</item>
+    </string-array>
+    <string-array name="led_color_values">
+        <item>white</item>
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>\#800080</item>
+        <item>\#ffc0cb</item>
+        <item>\#ffa500</item>
+        <item>\#add8e6</item>
+    </string-array>
+    <string-array name="font_size_entries">
+        <item>小字体</item>
+        <item>中字体</item>
+        <item>大字体</item>
+    </string-array>
+    <string-array name="font_size_values">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+    <string-array name="more_attachment_texts">
+        <item>照片</item>
+        <item>拍照</item>
+        <item>视频</item>
+        <item>拍视频</item>
+        <item>音频</item>
+        <item>录音</item>
+        <item>幻灯片</item>
+        <item>收藏</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Always</item>
+        <item>Only when silent</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0007">false</item>
+</resources>
