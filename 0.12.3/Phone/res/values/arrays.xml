@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="dialer_click_entries">
+        <item>拨打电话</item>
+        <item>发送短信/彩信</item>
+        <item>查看联系人</item>
+        <item>忽略单击</item>
+    </string-array>
+    <string-array name="dialer_click_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="voice_quality_ui_values">
+        <item>正常</item>
+        <item>清楚</item>
+        <item>清脆</item>
+        <item>明亮</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Network default</item>
+        <item>Hide number</item>
+        <item>Show number</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Global</item>
+        <item>EvDo only</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo auto</item>
+        <item>GSM / WCDMA auto</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>GSM / WCDMA preferred</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mode)</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>GSM/WCDA (WCDMA preferred)</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Home only</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="cdma_system_select_values">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Home Networks only</item>
+        <item>Affiliated Networks</item>
+        <item>Any Network</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA only</item>
+        <item>EvDo only</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="tty_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Long</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
