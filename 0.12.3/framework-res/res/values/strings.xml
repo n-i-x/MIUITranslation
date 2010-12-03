@@ -193,10 +193,10 @@
     <string name="fcError">Connection problem or invalid feature code.</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="firewall_setting">DND mode</string>
-    <string name="first_back_long_press_message">是否立即打开“长按返回键停止当前程序及其后台服务”的功能？\n\n可到“设置->系统->按键”修改。</string>
-    <string name="first_back_long_press_title">长按返回键行为</string>
+    <string name="first_back_long_press_message">Do you want to open the "long press key to stop the current process and its background services" function? \n\nEnable via Settings > System > Button edit.</string>
+    <string name="first_back_long_press_title">Press Return Key Behavior</string>
     <string name="force_close">Force close</string>
-    <string name="force_exit_message">已停止\"%1$s\"</string>
+    <string name="force_exit_message">Stopped\"%1$s\"</string>
     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
     <string name="gadget_host_error_inflating">Error inflating widget</string>
     <string name="gigabyteShort">GB</string>
