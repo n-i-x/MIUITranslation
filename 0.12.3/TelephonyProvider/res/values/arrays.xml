@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="black_call_act_entries">
-        <item>立即挂断</item>
-        <item>无震动无响铃</item>
+        <item>Hang up immediately</item>
+        <item>No vibration-free ring</item>
     </string-array>
     <string-array name="black_call_act_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="black_sms_act_entries">
-        <item>不拦截信息</item>
-        <item>来信息不通知</item>
-        <item>不在信息列表中显示</item>
+        <item>Dont intercept the SMS / MMS</item>
+        <item>To SMS / MMS without notice</item>
+        <item>SMS / MMS is not displayed in the list</item>
     </string-array>
     <string-array name="black_sms_act_values">
         <item>0</item>
@@ -19,17 +19,17 @@
         <item>2</item>
     </string-array>
     <string-array name="white_call_act_entries">
-        <item>立即挂断</item>
-        <item>无震动无响铃</item>
+        <item>Hang up immediately</item>
+        <item>No vibration-free ring</item>
     </string-array>
     <string-array name="white_call_act_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="white_sms_act_entries">
-        <item>不拦截信息</item>
-        <item>来信息不通知</item>
-        <item>不在信息列表中显示</item>
+        <item>Dont intercept the SMS / MMS</item>
+        <item>To SMS / MMS without notice</item>
+        <item>SMS / MMS is not displayed in the list</item>
     </string-array>
     <string-array name="white_sms_act_values">
         <item>0</item>
@@ -37,9 +37,9 @@
         <item>2</item>
     </string-array>
     <string-array name="white_list_enable_entries">
-        <item>只接收白名单电话和信息</item>
-        <item>只接收白名单电话</item>
-        <item>只接收白名单信息</item>
+        <item>Only receive calls and messages white list</item>
+        <item>White List to receive Calls only</item>
+        <item>White List to receive SMS / MMS only</item>
     </string-array>
     <string-array name="white_list_enable_values">
         <item>0</item>
