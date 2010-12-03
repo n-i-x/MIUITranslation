@@ -5,11 +5,11 @@
         <item>All Applications</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>联系人与通话记录</item>
-        <item>短信与彩信</item>
+        <item>Contacts and Call History</item>
+        <item>SMS and MMS</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>WIFI设置</item>
+        <item>Wi-Fi Settings</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(Data)</item>
