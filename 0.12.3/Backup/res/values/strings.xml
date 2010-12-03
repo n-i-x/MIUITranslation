@@ -7,10 +7,10 @@
     <string name="backup_dialog_title">Select backup contents</string>
     <string name="backup_disk_check">Checking for available space, please wait...</string>
     <string name="backup_empty">No backups found!</string>
-    <string name="backup_failed">备份失败的项目有：</string>
+    <string name="backup_failed">Backup items failed：</string>
     <string name="backup_file_error">There was a problem with the backup, the operation was not valid.</string>
     <string name="backup_finished">Backup completed</string>
-    <string name="backup_items">备份项目</string>
+    <string name="backup_items">Backup items</string>
     <string name="backup_progress">Backing up...</string>
     <string name="backup_progress_post">Backup post-processing...</string>
     <string name="backup_recently">(Latest)</string>
@@ -32,7 +32,7 @@
     <string name="delete_backup_process">Deleting backup, please wait...</string>
     <string name="menu_delete_shortcut_label">Delete</string>
     <string name="restore_confirm_title">Confirm you wish to restore?</string>
-    <string name="restore_failed">恢复失败的有：</string>
+    <string name="restore_failed">Restore has failed：</string>
     <string name="restore_finished">Restore completed</string>
     <string name="restore_progress">Restoring...</string>
     <string name="restore_rom">Restore the entire System</string>
@@ -40,7 +40,7 @@
     <string name="restore_rom_process">Ready to restart for restore...</string>
     <string name="restore_rom_title">Restore System, requires restart</string>
     <string name="restore_select_zero">No content was selected for restore</string>
-    <string name="restore_successful">恢复成功的有：</string>
+    <string name="restore_successful">Restore successful：</string>
     <string name="restore_title_suffix">Backup content:</string>
     <string name="restore_uncompress">Backup files are being extracted...</string>
     <string name="restore_unselected">No content was selected for System restore</string>
