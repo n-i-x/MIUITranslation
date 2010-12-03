@@ -48,7 +48,7 @@
     <string name="lrc_search_failed">Lyrics not found!</string>
     <string name="lrc_searching">Searching for Lyrics...</string>
     <string name="lrc_select">Select lyrics</string>
-    <string name="media_player_quit">退出</string>
+    <string name="media_player_quit">Exit</string>
     <string name="media_player_settings">Settings</string>
     <string name="mediapickerlabel">Music</string>
     <string name="mediaplaybacklabel">Music</string>
