@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi Data/item>
+        <item>Wi-Fi Data</item>
         <item>All Applications</item>
     </string-array>
     <string-array name="system_package_label">
