@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="dialer_click_entries">
-        <item>拨打电话</item>
-        <item>发送短信/彩信</item>
-        <item>查看联系人</item>
-        <item>忽略单击</item>
+        <item>Call</item>
+        <item>Send SMS/MMS</item>
+        <item>View contact</item>
+        <item>Ignore Click</item>
     </string-array>
     <string-array name="dialer_click_values">
         <item>0</item>
@@ -13,10 +13,10 @@
         <item>3</item>
     </string-array>
     <string-array name="voice_quality_ui_values">
-        <item>正常</item>
-        <item>清楚</item>
-        <item>清脆</item>
-        <item>明亮</item>
+        <item>Normal</item>
+        <item>Clear</item>
+        <item>Crisp</item>
+        <item>Vivid</item>
     </string-array>
     <string-array name="clir_display_values">
         <item>Network default</item>
