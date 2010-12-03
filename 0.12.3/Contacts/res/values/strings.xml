@@ -15,8 +15,8 @@
     <string name="attachToContact">Contact icon</string>
     <string name="belong_no_group">Not in Group</string>
     <string name="blurbJoinContactDataWith">Select the contact you want to join with %s.</string>
-    <string name="btn_selected">选择</string>
-    <string name="btn_selected_with_count">选择 (%d)</string>
+    <string name="btn_selected">Select</string>
+    <string name="btn_selected_with_count">Select (%d)</string>
     <string name="button_back">Back</string>
     <string name="button_manage_groups">Edit</string>
     <string name="button_remove_contacts">Remove Contact</string>
