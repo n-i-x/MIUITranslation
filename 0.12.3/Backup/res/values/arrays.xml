@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>WIFI数据</item>
-        <item>所有程序</item>
+        <item>Wi-Fi Data/item>
+        <item>All Applications</item>
     </string-array>
     <string-array name="system_package_label">
         <item>联系人与通话记录</item>
@@ -12,12 +12,12 @@
         <item>WIFI设置</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>(数据)</item>
-        <item>(程序)</item>
-        <item>(程序 + 数据)</item>
+        <item>(Data)</item>
+        <item>(Applications)</item>
+        <item>(Data + Applications)</item>
     </string-array>
     <string-array name="restore_dialog_content_type">
-        <item>恢复系统</item>
-        <item>恢复数据</item>
+        <item>System Recovery</item>
+        <item>Data Recovery</item>
     </string-array>
 </resources>
