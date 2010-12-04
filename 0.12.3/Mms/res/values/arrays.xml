@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="default_smiley_texts">
-        <item>~^_^~</item>
-        <item>^÷^</item>
-        <item>::>_&amp;lt;::</item>
-        <item>&amp;lt;_>¦¦¦</item>
-        <item>∩_∩</item>
-        <item>^_^/~~</item>
-        <item>^口^</item>
-        <item>〒_〒</item>
-        <item>∠※</item>
-        <item>╯^╰</item>
-        <item>一-一</item>
-        <item>b_d</item>
-        <item>*^‧^*</item>
-        <item>○^~^○</item>
-        <item>$_$</item>
-        <item>^ˍ^</item>
-        <item>~@^_^@~</item>
-        <item>ˋ^ˊ</item>
-        <item>ˋ_ˊ¦¦</item>
-        <item>°ο°/~</item>
-        <item>\\^o^//</item>
-        <item>⊙o⊙</item>
-        <item>‧_‧?</item>
-        <item>~o~/~</item>
-        <item>¯^¯</item>
-        <item>→_→</item>
-        <item>\@ο@</item>
-        <item>^人^</item>
-        <item>人人</item>
-        <item>Y^_^Y</item>
-        <item>ōk</item>
-        <item>-ิo-ิ</item>
+        <item>:-D</item>
+        <item>:-P</item>
+        <item>Pityful</item>
+        <item>Sweating</item>
+        <item>Hehehe</item>
+        <item>Bye</item>
+        <item>:$</item>
+        <item>:\'(</item>
+        <item>(F)</item>
+        <item>:-S</item>
+        <item>:-#</item>
+        <item>8-)</item>
+        <item>(K)</item>
+        <item>Happy</item>
+        <item>(L)</item>
+        <item>:-)</item>
+        <item>Lovely</item>
+        <item>:@</item>
+        <item>:-||</item>
+        <item>Well done</item>
+        <item>Confused!</item>
+        <item>:-O</item>
+        <item>WTF!</item>
+        <item>|-)</item>
+        <item>Meh</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Thanks</item>
+        <item>Agreed</item>
+        <item>Victory</item>
+        <item>OK</item>
+        <item>Pig</item>
     </string-array>
     <string-array name="default_insert_attach_names">
         <item>Pictures</item>
@@ -53,32 +53,32 @@
         <item>Sapphire</item>
     </string-array>
     <string-array name="led_color_values">
-        <item>white</item>
-        <item>green</item>
-        <item>red</item>
-        <item>blue</item>
-        <item>yellow</item>
-        <item>cyan</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
         <item>\#800080</item>
         <item>\#ffc0cb</item>
         <item>\#ffa500</item>
         <item>\#add8e6</item>
     </string-array>
     <string-array name="led_color_entries_for_milestone">
-        <item>绿色</item>
-        <item>红色</item>
-        <item>蓝色</item>
-        <item>黄色</item>
-        <item>青色</item>
-        <item>红紫色</item>
-        <item>橙色</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Sapphire</item>
+        <item>Cyan</item>
+        <item>Orange</item>
     </string-array>
     <string-array name="led_color_values_for_milestone">
-        <item>green</item>
-        <item>red</item>
-        <item>blue</item>
-        <item>yellow</item>
-        <item>cyan</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
         <item>\#800080</item>
         <item>\#ffa500</item>
     </string-array>

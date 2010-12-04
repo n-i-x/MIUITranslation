@@ -86,7 +86,7 @@
     <string name="auto_punctuate_summary">Press Space key twice to insert \".\"</string>
     <string name="auto_replace">Auto-replace</string>
     <string name="auto_replace_summary">Correct mistyped words</string>
-    <string name="auto_restore_summary">If I reinstall an application, restore backed up settings or other data.</string>
+    <string name="auto_restore_summary">Restore backed up settings and other data on re-installation of application.</string>
     <string name="auto_restore_title">Automatic restore</string>
     <string name="automatic_brightness">Automatic brightness</string>
     <string name="awake">Device awake time</string>
@@ -111,7 +111,7 @@
     <string name="battery_action_wifi">Wi-Fi Settings</string>
     <string name="battery_auto_saving">Auto power saving mode</string>
     <string name="battery_auto_saving_category_general">Changes will be used next time low-power mode is activated</string>
-    <string name="battery_auto_saving_category_practise">Extend your battery life?</string>
+    <string name="battery_auto_saving_category_practise">Want to extend your battery life?</string>
     <string name="battery_auto_saving_category_rule">Power saving options</string>
     <string name="battery_auto_saving_practise">Tips on Maximizing Battery Life</string>
     <string name="battery_auto_saving_practise_more">More power saving tips...</string>
@@ -394,11 +394,11 @@
     <string name="credentials_unlock">Enter password</string>
     <string name="credentials_unlock_hint">Enter the credential storage password.</string>
     <string name="credentials_wrong_password">Please enter the correct password.</string>
-    <string name="current_ime">Current Keyboard</string>
+    <string name="current_ime">Current keyboard</string>
     <string name="current_version">Current version:%s</string>
     <string name="customized_theme_title">Theme Manager</string>
-    <string name="data_backup_settings">Backup Data and Settings</string>
-    <string name="data_backup_settings_title">Backup Data and Settings</string>
+    <string name="data_backup_settings">Backup Data &amp; Settings</string>
+    <string name="data_backup_settings_title">Backup Data &amp; Settings</string>
     <string name="data_service">Data Services</string>
     <string name="data_size_label">Data</string>
     <string name="date_and_time">Date &amp; Time Settings</string>
@@ -425,7 +425,7 @@
     <string name="desktop_wallpaper">Desktop Wallpapers</string>
     <string name="details_subtitle">Use details</string>
     <string name="details_title">Battery use details</string>
-    <string name="development_debug_category">Development and debugging</string>
+    <string name="development_debug_category">Development &amp; debugging</string>
     <string name="development_settings_summary">Set options for application development</string>
     <string name="development_settings_title">Development Settings</string>
     <string name="device_admin_add_title">Device Administrator</string>
@@ -508,8 +508,8 @@
     <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="gmail_settings_title">Gmail Settings</string>
     <string name="gtalk_settings_title">Google Talk Settings</string>
-    <string name="handon_ringer_summary">When picked up from a flat surface, phone ringtone will soften.</string>
-    <string name="handon_ringer_title">Pick up the phone ring tones fade</string>
+    <string name="handon_ringer_summary">When picked up from a flat surface, phone ringtone will fade.</string>
+    <string name="handon_ringer_title">Pick up to fade tone</string>
     <string name="haptic_feedback_enable_summary_off">Vibrate when pressing soft keys and on certain UI interactions</string>
     <string name="haptic_feedback_enable_summary_on">Vibrate when pressing soft keys and on certain UI interactions</string>
     <string name="haptic_feedback_enable_title">Haptic feedback</string>
@@ -547,7 +547,7 @@
     <string name="language_keyboard_settings_title">Language &amp; Keyboard Settings</string>
     <string name="language_picker_title">Locale</string>
     <string name="language_settings">Language &amp; Keyboard</string>
-    <string name="language_settings_summary">Set locale (language and region), text input and auto-correction options</string>
+    <string name="language_settings_summary">Set locale (language &amp; region), text input and auto-correction options</string>
     <string name="language_settings_title">Language &amp; Input Settings</string>
     <string name="large_font">Large</string>
     <string name="launch_count_label">Count</string>
@@ -647,7 +647,7 @@
     <string name="media_format_gesture_prompt">Draw your unlock pattern</string>
     <string name="media_format_summary">Erases all data on the SD card</string>
     <string name="media_format_title">Format SD card.</string>
-    <string name="media_volume">Media Volume</string>
+    <string name="media_volume">Media volume</string>
     <string name="media_volume_summary">Set volume for music and videos</string>
     <string name="media_volume_title">Media</string>
     <string name="medium_font">Medium</string>
@@ -960,8 +960,8 @@
     <string name="supplicant_state_label">Supplicant State :</string>
     <string name="sync_settings">Accounts &amp; Sync</string>
     <string name="sync_settings_summary">Add or remove accounts and change account settings</string>
-    <string name="sync_settings_title">Accounts and Sync</string>
-    <string name="system_hardware_category">Systems and hardware</string>
+    <string name="sync_settings_title">Accounts &amp; Sync</string>
+    <string name="system_hardware_category">System &amp; Hardware</string>
     <string name="system_package">System updates cannot be installed on external media.</string>
     <string name="system_settings_tab">System</string>
     <string name="system_tutorial_list_item_summary">Learn how to use your phone</string>
@@ -969,7 +969,7 @@
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">System updates</string>
     <string name="system_update_settings_title">System Update</string>
-    <string name="terms_title">Terms and conditions</string>
+    <string name="terms_title">Terms &amp; conditions</string>
     <string name="testing">Testing</string>
     <string name="testing_battery_history">Battery history</string>
     <string name="testing_battery_info">Battery information</string>
@@ -1017,8 +1017,8 @@
     <string name="tts_settings_title">Text-to-speech Settings</string>
     <string name="turn_off_radio">Turn off radio</string>
     <string name="turn_on_radio">Turn on radio</string>
-    <string name="turnover_mute_summary">When the phone rings, flip down the screen to activate silent mode.</string>
-    <string name="turnover_mute_title">Flip to Silence</string>
+    <string name="turnover_mute_summary">When the phone rings, flip the screen down to activate silent mode.</string>
+    <string name="turnover_mute_title">Flip to silence</string>
     <string name="uninstall_program_title">Uninstall Application</string>
     <string name="uninstall_text">Uninstall</string>
     <string name="unknown">Unknown</string>
@@ -1061,7 +1061,7 @@
     <string name="usage_type_power">Battery Usage</string>
     <string name="usage_type_video">Video</string>
     <string name="usb_mode_charge_only">Charge only</string>
-    <string name="usb_mode_mount_storage">Charge and Sync</string>
+    <string name="usb_mode_mount_storage">Charge &amp; Sync</string>
     <string name="usb_tethering_active_subtext">Tethered</string>
     <string name="usb_tethering_available_subtext">USB connected, check to tether</string>
     <string name="usb_tethering_button_text">USB tethering</string>
@@ -1092,7 +1092,7 @@
     <string name="voice_input_output_settings_title">Voice input &amp; output settings</string>
     <string name="voice_output_category">Voice output</string>
     <string name="voice_search_settings_title">Voice Search Settings</string>
-    <string name="voice_volume">Call Volume</string>
+    <string name="voice_volume">Call volume</string>
     <string name="vpn_a_ca_certificate">a CA certificate</string>
     <string name="vpn_a_ipsec_presharedkey">an IPSec pre-shared key</string>
     <string name="vpn_a_l2tp_secret">an L2TP secret</string>

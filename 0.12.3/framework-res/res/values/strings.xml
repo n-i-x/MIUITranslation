@@ -863,7 +863,6 @@
     <string name="status_bar_button_rotate">Rotation</string>
     <string name="status_bar_button_shutdown">Power</string>
     <string name="status_bar_button_sync">Sync</string>
-    <string name="status_bar_button_torch">Flashlight</string>
     <string name="status_bar_button_vibrate">Vibrate</string>
     <string name="status_bar_button_wifi">Wi-Fi</string>
     <string name="status_bar_clear_all_button">Clear</string>
@@ -897,14 +896,14 @@
     <string name="unknownName">(Unknown)</string>
     <string name="untitled">&lt;untitled></string>
     <string name="upload_file">Choose file</string>
-    <string name="usb_mode_charge_only">Charging only</string>
-    <string name="usb_mode_dont_ask">Do not ask</string>
-    <string name="usb_mode_mount_storage">Charging and data transfer</string>
+    <string name="usb_mode_charge_only">Charge only</string>
+    <string name="usb_mode_dont_ask">Don\'t ask</string>
+    <string name="usb_mode_mount_storage">Charge &amp; Sync</string>
     <string name="usb_mode_selection">Please select the USB connection type</string>
     <string name="usb_storage_activity_title">USB Mass Storage</string>
     <string name="usb_storage_button_mount">Turn on USB storage</string>
     <string name="usb_storage_error_message">There is a problem using your SD card for USB storage.</string>
-    <string name="usb_storage_message">You have connected your phone to your computer via USB. Select the button below if you want to copy files between your computer and your Android‘s SD card.</string>
+    <string name="usb_storage_message">You have connected your phone to your computer via USB. Select the button below if you want to copy files between your computer and your Android\'s SD card.</string>
     <string name="usb_storage_notification_message">Select to copy files to/from your computer.</string>
     <string name="usb_storage_notification_title">USB connected</string>
     <string name="usb_storage_stop_button_mount">Turn off USB storage</string>
@@ -937,4 +936,5 @@
     <string name="years">years</string>
     <string name="yes">OK</string>
     <string name="yesterday">Yesterday</string>
+	<string name="status_bar_button_torch">Flashlight</string>
 </resources>
