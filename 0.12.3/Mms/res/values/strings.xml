@@ -79,7 +79,7 @@
     <string name="delivery_toast_body">Message received by %s</string>
     <string name="demo_conv1_body">This is sample text</string>
     <string name="demo_conv1_contact">Contact</string>
-    <string name="demo_conv1_number">13800000000</string>
+    <string name="demo_conv1_number">01234567890</string>
     <string name="demo_conv2_body">Welcome to MIUI SMS</string>
     <string name="demo_conv2_contact">MIUI Developers</string>
     <string name="demo_conv2_number">15800000000</string>
@@ -156,7 +156,7 @@
     <string name="me">I</string>
     <string name="menu_add_address_to_contacts">Add %s to Contacts</string>
     <string name="menu_add_to_contacts">Add to Contacts</string>
-    <string name="menu_batch_delete">Delete Message(s)</string>
+    <string name="menu_batch_delete">Delete message(s)</string>
     <string name="menu_call">Call</string>
     <string name="menu_call_back">Call %s</string>
     <string name="menu_compose_new">Compose</string>
@@ -165,7 +165,7 @@
     <string name="menu_delete_messages">Delete messages</string>
     <string name="menu_edit">Edit</string>
     <string name="menu_forward">Forward</string>
-    <string name="menu_group_sending">Group Message</string>
+    <string name="menu_group_sending">Group message</string>
     <string name="menu_insert_smiley">Insert smiley</string>
     <string name="menu_lock">Lock message</string>
     <string name="menu_patch_delete">Delete thread(s)</string>
@@ -194,7 +194,7 @@
     <string name="message_size_label">Message size:\u0020</string>
     <string name="message_too_big_for_video">The message is too big to attach a video.</string>
     <string name="message_type_label">Type:\u0020</string>
-    <string name="messagelist_sender_self">Me</string>
+    <string name="messagelist_sender_self">I</string>
     <string name="miui_push">MIUI SMS</string>
     <string name="mms">MMS</string>
     <string name="mms_decrease_font_size">Decrease MMS Text Size</string>
@@ -230,7 +230,7 @@
     <string name="phrase_tab">Phrases</string>
     <string name="pick_numbers_activity">Pick Numbers</string>
     <string name="play">Play</string>
-    <string name="popup_activity">Quick reply window</string>
+    <string name="popup_activity">Quick Reply Window</string>
     <string name="popup_btn_send">Send</string>
     <string name="popup_sms_deleted">SMS Deleted</string>
     <string name="prefDefault_vibrateWhen">never</string>
@@ -275,7 +275,7 @@
     <string name="pref_title_mms_delivery_reports">Delivery reports</string>
     <string name="pref_title_mms_read_reports">Read reports</string>
     <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-retrieve</string>
-    <string name="pref_title_notification_content_enabled">SMS Status bar</string>
+    <string name="pref_title_notification_content_enabled">SMS in status bar</string>
     <string name="pref_title_notification_enabled">Notifications</string>
     <string name="pref_title_notification_ringtone">Select ringtone</string>
     <string name="pref_title_notification_vibrateWhen">Vibrate</string>

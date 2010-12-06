@@ -20,8 +20,8 @@
     <string name="apn_settings">Access Point Names</string>
     <string name="atr_disable">Area Traffic Reports disabled</string>
     <string name="atr_enable">Area Traffic Reports enabled</string>
-    <string name="auto_dialpad_pref_summary">Show dial pad automatically when calling.</string>
-    <string name="auto_dialpad_pref_title">Show dial pad automatically</string>
+    <string name="auto_dialpad_pref_summary">Dial pad shown automatically when calling.</string>
+    <string name="auto_dialpad_pref_title">Show dial pad</string>
     <string name="auto_retry_mode_summary">Enable Auto Retry mode</string>
     <string name="auto_retry_mode_title">Auto Retry</string>
     <string name="autoip">Auto IP dialing</string>
@@ -60,7 +60,7 @@
     <string name="call_lost">Call has been lost.</string>
     <string name="call_lost_title">Call Lost</string>
     <string name="call_reject_hint">Slide up to ignore</string>
-    <string name="call_settings">Call settings</string>
+    <string name="call_settings">Call Settings</string>
     <string name="caller_manage_header">Conference call %s</string>
     <string name="caller_manage_manage_done_text">Back to call</string>
     <string name="calling_via_template">Calling via ^1\n<b>^2</b></string>
@@ -386,7 +386,7 @@
     <string name="puk2_requested">Password incorrect, SIM is locked! PUK2 requested.</string>
     <string name="puk_requested">Password incorrect, SIM is locked! PUK2 requested.</string>
     <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
-    <string name="query_telocation_sum">Look up mobile or landline number\'s location</string>
+    <string name="query_telocation_sum">Look up for mobile or landline number\'s location</string>
     <string name="query_telocation_title">Look up for number\'s location</string>
     <string name="radio_off_error">Please turn on the radio before viewing these settings.</string>
     <string name="reading_settings">Reading settings…</string>

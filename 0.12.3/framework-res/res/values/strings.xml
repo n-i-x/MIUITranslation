@@ -196,7 +196,7 @@
     <string name="first_back_long_press_message">Do you want to open the "long press key to stop the current process and its background services" function? \n\nEnable via Settings > System > Button edit.</string>
     <string name="first_back_long_press_title">Press Return Key Behavior</string>
     <string name="force_close">Force close</string>
-    <string name="force_exit_message">Stopped\"%1$s\"</string>
+    <string name="force_exit_message">Successfully closed \"%1$s\"</string>
     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
     <string name="gadget_host_error_inflating">Error inflating widget</string>
     <string name="gigabyteShort">GB</string>

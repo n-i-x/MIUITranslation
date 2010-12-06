@@ -479,7 +479,7 @@
     <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">USB debugging</string>
     <string name="enable_adb_summary">Debug mode when USB is connected</string>
-    <string name="enable_back_long_press">Long-press stop app</string>
+    <string name="enable_back_long_press">Long-press to kill app</string>
     <string name="error_apn_empty">The APN cannot be empty.</string>
     <string name="error_mcc_not3">MCC field must be 3 digits.</string>
     <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
@@ -544,7 +544,7 @@
     <string name="key_settings_title">Button Settings</string>
     <string name="keyboard_settings_title">Android Keyboard Settings</string>
     <string name="language_category">Locale Settings</string>
-    <string name="language_keyboard_settings_title">Language &amp; Keyboard Settings</string>
+    <string name="language_keyboard_settings_title">Language &amp; Input Settings</string>
     <string name="language_picker_title">Locale</string>
     <string name="language_settings">Language &amp; Keyboard</string>
     <string name="language_settings_summary">Set locale (language &amp; region), text input and auto-correction options</string>
@@ -560,7 +560,7 @@
     <string name="location_neighborhood_level">Location determined by Wi-Fi and/or mobile networks</string>
     <string name="location_network_based">Use Wireless Networks</string>
     <string name="location_networks_disabled">See location in applications (such as Maps) using wireless networks</string>
-    <string name="location_security_settings_title">Location &amp; Security Settings</string>
+    <string name="location_security_settings_title">Security &amp; Privacy Settings</string>
     <string name="location_street_level">When locating, accurate to street level (uncheck to conserve battery)</string>
     <string name="location_title">My Location</string>
     <string name="lock_example_message">Connect at least four dots.\n \nTouch “Next” when you’re ready to draw your own pattern.</string>
@@ -871,7 +871,7 @@
     <string name="search_settings">Search Settings</string>
     <string name="search_settings_summary">Manage search settings and history</string>
     <string name="security_passwords_title">Passwords</string>
-    <string name="security_privacy_settings_title">Security and Privacy</string>
+    <string name="security_privacy_settings_title">Security &amp; Privacy Settings</string>
     <string name="security_settings_desc">This application can access the following on your phone:</string>
     <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>
     <string name="security_settings_title">Location &amp; Security</string>
@@ -980,7 +980,7 @@
     <string name="tether_settings_summary_both">Share your phone\'s mobile data connection via USB or as a portable Wi-Fi hotspot</string>
     <string name="tether_settings_summary_usb">Share your phone\'s mobile data connection via USB</string>
     <string name="tether_settings_summary_wifi">Share your phone\'s mobile connection as a portable Wi-Fi hotspot</string>
-    <string name="tether_settings_title_both">Tethering &amp; portable hotspot</string>
+    <string name="tether_settings_title_both">Tethering &amp; Portable Hotspot</string>
     <string name="tether_settings_title_usb">Tethering</string>
     <string name="tether_settings_title_wifi">Portable hotspot</string>
     <string name="tethering_help_button_text">Help</string>

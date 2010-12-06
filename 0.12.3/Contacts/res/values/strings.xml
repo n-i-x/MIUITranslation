@@ -331,10 +331,10 @@
     <string name="removePicture">Remove icon</string>
     <string name="returnCall">Return call</string>
     <string name="saveConfirmationBody">Confirm changes to contact?</string>
-    <string name="saveConfirmationNo">Cancel</string>
+    <string name="saveConfirmationNo">Dont Save</string>
     <string name="saveConfirmationTitle">Save contact</string>
     <string name="saveConfirmationYes">Save</string>
-    <string name="savingContact">Saving contact…</string>
+    <string name="savingContact">Saving contact...</string>
     <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: \"%s\")</string>
     <string name="scanning_sdcard_failed_title">Scanning SD card failed</string>
     <string name="searchHint">Search contacts</string>
