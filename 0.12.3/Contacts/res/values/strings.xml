@@ -55,11 +55,11 @@
     <string name="callrecordview_item_op_time_missed">Not connected</string>
     <string name="callrecordview_item_op_time_short_incoming">Incoming %d seconds</string>
     <string name="callrecordview_item_op_time_short_outgoing">Outgoing %d seconds</string>
-    <string name="callrecordview_menu_delete_all">Clear All Calls</string>
-    <string name="callrecordview_menu_delete_one">Clear from Call History</string>
-    <string name="callrecordview_menu_delete_stranger">Clear Unknown Numbers</string>
-    <string name="callrecordview_menu_phone_all">Show All Calls</string>
-    <string name="callrecordview_menu_phone_missed">Show Missed Calls</string>
+    <string name="callrecordview_menu_delete_all">Clear all calls</string>
+    <string name="callrecordview_menu_delete_one">Clear from call history</string>
+    <string name="callrecordview_menu_delete_stranger">Clear unknown numbers</string>
+    <string name="callrecordview_menu_phone_all">Show all calls</string>
+    <string name="callrecordview_menu_phone_missed">Show missed calls</string>
     <string name="callrecordview_menu_set">Settings</string>
     <string name="callrecordview_more">More</string>
     <string name="callrecordview_more_title">%s All Calls</string>
@@ -235,7 +235,7 @@
     <string name="menu_contactOptions">Options</string>
     <string name="menu_deleteContact">Delete contact</string>
     <string name="menu_deleteGroup">Delete Group</string>
-    <string name="menu_display_all">Show all Contacts</string>
+    <string name="menu_display_all">Show all contacts</string>
     <string name="menu_display_only_phones">Display contacts with phone number</string>
     <string name="menu_doNotSave">Revert</string>
     <string name="menu_done">Done</string>
