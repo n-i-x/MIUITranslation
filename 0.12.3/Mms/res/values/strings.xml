@@ -155,7 +155,7 @@
     <string name="locked_message_cannot_be_deleted">Locked message cannot be deleted.</string>
     <string name="me">I</string>
     <string name="menu_add_address_to_contacts">Add %s to Contacts</string>
-    <string name="menu_add_to_contacts">Add to Contacts</string>
+    <string name="menu_add_to_contacts">Add to contacts</string>
     <string name="menu_batch_delete">Delete message(s)</string>
     <string name="menu_call">Call</string>
     <string name="menu_call_back">Call %s</string>
